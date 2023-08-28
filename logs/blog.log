@@ -1,0 +1,28 @@
+INFO 2023-08-28 15:59:14,042 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-28 15:59:14,405 urls 32 ²âÊÔloggingÄ£¿éinfo
+ERROR 2023-08-28 15:59:14,405 urls 33 ²âÊÔloggingÄ£¿éerror
+INFO 2023-08-28 15:59:14,409 basehttp 154 "GET / HTTP/1.1" 200 4
+INFO 2023-08-28 16:07:33,640 autoreload 203 D:\python\pythonProject\blog\blog\settings.py changed, reloading.
+INFO 2023-08-28 16:07:34,154 autoreload 597 Watching for file changes with StatReloader
+INFO 2023-08-28 16:07:34,533 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-28 16:07:47,786 autoreload 217 D:\python\pythonProject\blog\blog\settings.py changed, reloading.
+INFO 2023-08-28 16:07:48,035 autoreload 203 D:\python\pythonProject\blog\blog\settings.py changed, reloading.
+INFO 2023-08-28 16:07:48,752 autoreload 597 Watching for file changes with StatReloader
+INFO 2023-08-28 16:07:48,927 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-28 16:08:16,288 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-28 16:08:16,724 urls 32 ²âÊÔloggingÄ£¿éinfo
+ERROR 2023-08-28 16:08:16,724 urls 33 ²âÊÔloggingÄ£¿éerror
+INFO 2023-08-28 16:08:16,729 basehttp 154 "GET / HTTP/1.1" 200 4
+INFO 2023-08-28 16:08:46,335 basehttp 154 "GET /static/index.html HTTP/1.1" 200 12002
+INFO 2023-08-28 16:08:46,394 basehttp 154 "GET /static/md_css/monokai.css HTTP/1.1" 200 4118
+INFO 2023-08-28 16:08:46,395 basehttp 154 "GET /static/common/common.css HTTP/1.1" 200 381
+INFO 2023-08-28 16:08:46,396 basehttp 154 "GET /static/common/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2023-08-28 16:08:46,400 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2023-08-28 16:08:46,400 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2023-08-28 16:08:46,403 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2023-08-28 16:08:46,406 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2023-08-28 16:08:46,431 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2023-08-28 16:08:46,439 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2023-08-28 16:08:46,446 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 530
+INFO 2023-08-28 16:08:46,453 basehttp 154 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2023-08-28 16:08:46,460 basehttp 154 "GET /static/img/1.jpg HTTP/1.1" 200 78682
