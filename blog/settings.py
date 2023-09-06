@@ -37,6 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    # 子应用的注册
+    'users.apps.UsersConfig',
 ]
 
 MIDDLEWARE = [
@@ -54,7 +56,8 @@ ROOT_URLCONF = 'blog.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        # 模板路径
+        'DIRS': [os.path.join(BASE_DIR,'templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -80,7 +83,10 @@ DATABASES = {
         'PORT': 3306, # 数据库端口
         'USER': 'root', # 数据库用户名
         'PASSWORD': 'root', # 数据库用户密码
-        'NAME': 'blog' # 数据库名字
+        'NAME': 'blog', # 数据库名字
+        'OPTIONS': {
+            'init_command': "SET sql_mode='STRICT_TRANS_TABLES'",
+        }
     },
 }
 
@@ -188,3 +194,7 @@ LOGGING = {
         },
     }
 }
+
+# 替换系统的User 来使用我们自己定义的User
+# 配置信息 为 ‘子应用名.模型类型’
+AUTH_USER_MODEL = 'users.User'

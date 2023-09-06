@@ -15,25 +15,27 @@ Including another URLconf
 """
 from django.contrib import admin
 
-from django.urls import path
+from django.urls import path, include
 
-from django.http import HttpResponse
-
-
-import logging
-
-# 创建日志记录器
-logger = logging.getLogger('django')
-
-
-def log(request):
-    # 输出日志
-    logger.debug('测试logging模块debug')
-    logger.info('测试logging模块info')
-    logger.error('测试logging模块error')
-    return HttpResponse('test')
+# from django.http import HttpResponse
+# import logging
+#
+# # 创建日志记录器
+# logger = logging.getLogger('django')
+#
+# def log(request):
+#     # 输出日志
+#     logger.debug('测试logging模块debug')
+#     logger.info('测试logging模块info')
+#     logger.error('测试logging模块error')
+#     return HttpResponse('test')
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('',log),
+    # include 参数1要设置为元组（urlconf_module, app_name）
+    # namespace 设置命名空间
+    path('', include(('users.urls', 'users'), namespace='users')),
+    # path('',log),
+
+    path('', include(('home.urls','home'),namespace='home')),
 ]

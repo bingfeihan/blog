@@ -160,9 +160,11 @@ var vm = new Vue({
 
             if (this.mobile_error == true || this.password_error == true || this.password2_error == true
                 || this.image_code_error == true || this.sms_code_error == true) {
+                console.log(111)
                 // 不满足注册条件：禁用表单
                 window.event.returnValue = false;
             }
+            console.log(222)
         }
     }
 });

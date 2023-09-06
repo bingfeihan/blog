@@ -26,3 +26,649 @@ INFO 2023-08-28 16:08:46,439 basehttp 154 "GET /static/js/common.js HTTP/1.1" 20
 INFO 2023-08-28 16:08:46,446 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 530
 INFO 2023-08-28 16:08:46,453 basehttp 154 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
 INFO 2023-08-28 16:08:46,460 basehttp 154 "GET /static/img/1.jpg HTTP/1.1" 200 78682
+INFO 2023-08-28 16:18:38,259 autoreload 203 D:\python\pythonProject\blog\blog\settings.py changed, reloading.
+INFO 2023-08-28 16:18:39,072 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-28 16:19:11,368 autoreload 203 D:\python\pythonProject\blog\blog\settings.py changed, reloading.
+INFO 2023-08-28 16:19:12,150 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-28 16:19:17,057 autoreload 203 D:\python\pythonProject\blog\blog\settings.py changed, reloading.
+INFO 2023-08-28 16:19:17,896 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-28 16:20:11,427 autoreload 203 D:\python\pythonProject\blog\blog\settings.py changed, reloading.
+INFO 2023-08-28 16:20:12,238 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-28 16:27:20,091 autoreload 203 D:\python\pythonProject\blog\blog\urls.py changed, reloading.
+INFO 2023-08-28 16:27:20,888 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-28 16:27:47,028 autoreload 203 D:\python\pythonProject\blog\blog\urls.py changed, reloading.
+INFO 2023-08-28 16:27:47,843 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-28 16:28:08,118 autoreload 203 D:\python\pythonProject\blog\blog\urls.py changed, reloading.
+INFO 2023-08-28 16:28:08,947 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-28 16:28:12,623 autoreload 203 D:\python\pythonProject\blog\blog\urls.py changed, reloading.
+INFO 2023-08-28 16:28:13,464 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-28 16:28:23,112 autoreload 203 D:\python\pythonProject\blog\blog\urls.py changed, reloading.
+INFO 2023-08-28 16:28:23,929 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-28 16:30:36,686 autoreload 578 Watching for file changes with StatReloader
+WARNING 2023-08-28 16:30:37,217 log 222 Not Found: /
+WARNING 2023-08-28 16:30:37,217 basehttp 154 "GET / HTTP/1.1" 404 2092
+WARNING 2023-08-28 16:30:47,447 log 222 Not Found: /
+WARNING 2023-08-28 16:30:47,448 basehttp 154 "GET / HTTP/1.1" 404 2092
+WARNING 2023-08-28 16:30:47,462 log 222 Not Found: /
+WARNING 2023-08-28 16:30:47,462 basehttp 154 "GET / HTTP/1.1" 404 2092
+WARNING 2023-08-28 16:31:00,547 log 222 Not Found: /
+WARNING 2023-08-28 16:31:00,547 basehttp 154 "GET / HTTP/1.1" 404 2092
+WARNING 2023-08-28 16:31:07,751 log 222 Not Found: /regist
+WARNING 2023-08-28 16:31:07,751 basehttp 154 "GET /regist HTTP/1.1" 404 2128
+INFO 2023-08-28 16:31:18,606 basehttp 154 "GET /register HTTP/1.1" 301 0
+INFO 2023-08-28 16:31:18,622 basehttp 154 "GET /register/ HTTP/1.1" 200 5217
+INFO 2023-08-28 16:31:18,696 basehttp 154 "GET /static/img/image_code.png HTTP/1.1" 200 3483
+INFO 2023-08-28 16:31:18,697 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 6407
+INFO 2023-08-28 16:35:18,215 autoreload 578 Watching for file changes with StatReloader
+WARNING 2023-08-28 16:35:18,583 log 222 Not Found: /
+WARNING 2023-08-28 16:35:18,584 basehttp 154 "GET / HTTP/1.1" 404 2092
+INFO 2023-08-28 16:35:23,500 basehttp 154 "GET /register/ HTTP/1.1" 200 5223
+INFO 2023-08-28 16:35:24,629 basehttp 154 "GET /register/ HTTP/1.1" 200 5223
+INFO 2023-08-28 16:52:26,258 basehttp 154 "GET /static/login.html HTTP/1.1" 200 3106
+INFO 2023-08-28 16:52:26,319 basehttp 154 "GET /static/js/login.js HTTP/1.1" 200 677
+INFO 2023-08-28 16:52:34,388 basehttp 154 "GET /register/ HTTP/1.1" 200 5223
+INFO 2023-08-28 16:55:02,200 autoreload 203 D:\python\pythonProject\blog\users\models.py changed, reloading.
+INFO 2023-08-28 16:55:03,102 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-28 16:55:49,694 autoreload 203 D:\python\pythonProject\blog\users\models.py changed, reloading.
+INFO 2023-08-28 16:55:50,483 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-28 16:58:32,016 autoreload 203 D:\python\pythonProject\blog\blog\settings.py changed, reloading.
+INFO 2023-08-28 16:58:32,792 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-28 16:58:42,689 autoreload 203 D:\python\pythonProject\blog\blog\settings.py changed, reloading.
+INFO 2023-08-28 16:58:43,613 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-28 16:59:19,591 autoreload 203 D:\python\pythonProject\blog\blog\settings.py changed, reloading.
+INFO 2023-08-28 16:59:20,419 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-28 16:59:44,371 autoreload 203 D:\python\pythonProject\blog\blog\settings.py changed, reloading.
+INFO 2023-08-28 16:59:45,140 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-28 16:59:57,871 autoreload 203 D:\python\pythonProject\blog\blog\settings.py changed, reloading.
+INFO 2023-08-28 16:59:58,632 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-28 17:00:22,839 autoreload 203 D:\python\pythonProject\blog\blog\settings.py changed, reloading.
+INFO 2023-08-28 17:00:23,628 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-28 17:00:48,835 autoreload 203 D:\python\pythonProject\blog\blog\settings.py changed, reloading.
+INFO 2023-08-28 17:00:49,698 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-28 17:12:58,675 autoreload 203 D:\python\pythonProject\blog\blog\settings.py changed, reloading.
+INFO 2023-08-28 17:12:59,633 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-28 17:13:12,131 autoreload 578 Watching for file changes with StatReloader
+WARNING 2023-08-28 17:13:12,622 log 222 Not Found: /
+WARNING 2023-08-28 17:13:12,623 basehttp 154 "GET / HTTP/1.1" 404 2092
+INFO 2023-08-30 17:23:06,276 autoreload 578 Watching for file changes with StatReloader
+WARNING 2023-08-30 17:23:07,073 log 222 Not Found: /
+WARNING 2023-08-30 17:23:07,073 basehttp 154 "GET / HTTP/1.1" 404 2092
+WARNING 2023-08-30 17:23:07,307 log 222 Not Found: /favicon.ico
+WARNING 2023-08-30 17:23:07,307 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2143
+INFO 2023-08-30 17:46:51,611 basehttp 154 "GET /register HTTP/1.1" 301 0
+INFO 2023-08-30 17:46:51,683 basehttp 154 "GET /register/ HTTP/1.1" 200 5223
+INFO 2023-08-30 17:46:51,825 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2023-08-30 17:46:51,841 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2023-08-30 17:46:51,871 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2023-08-30 17:46:51,915 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2023-08-30 17:46:51,917 basehttp 154 "GET /static/img/image_code.png HTTP/1.1" 200 3483
+INFO 2023-08-30 17:46:51,920 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2023-08-30 17:46:51,929 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 6407
+INFO 2023-08-30 17:46:55,566 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+WARNING 2023-08-30 17:46:55,674 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2023-08-31 10:54:18,327 autoreload 578 Watching for file changes with StatReloader
+WARNING 2023-08-31 10:54:19,305 log 222 Not Found: /
+WARNING 2023-08-31 10:54:19,306 basehttp 154 "GET / HTTP/1.1" 404 2267
+WARNING 2023-08-31 10:54:19,565 log 222 Not Found: /favicon.ico
+WARNING 2023-08-31 10:54:19,565 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2318
+ERROR 2023-08-31 10:56:15,314 basehttp 154 "GET /imagecode/?uuid=123 HTTP/1.1" 500 59
+INFO 2023-08-31 11:00:19,704 autoreload 578 Watching for file changes with StatReloader
+WARNING 2023-08-31 11:00:20,227 log 222 Not Found: /
+WARNING 2023-08-31 11:00:20,228 basehttp 154 "GET / HTTP/1.1" 404 2267
+ERROR 2023-08-31 11:00:32,540 log 222 Internal Server Error: /imagecode/
+Traceback (most recent call last):
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\python\pythonProject\blog\users\views.py", line 42, in get
+    text, image = captcha.generate_captcha()
+  File "D:\python\pythonProject\blog\libs\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "D:\python\pythonProject\blog\libs\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "D:\python\pythonProject\blog\libs\captcha\captcha.py", line 132, in text
+    c_width, c_height = draw.textsize(c, font=font)
+AttributeError: 'ImageDraw' object has no attribute 'textsize'
+ERROR 2023-08-31 11:00:32,543 basehttp 154 "GET /imagecode/?uuid=123 HTTP/1.1" 500 96721
+INFO 2023-08-31 11:01:27,223 autoreload 578 Watching for file changes with StatReloader
+WARNING 2023-08-31 11:01:27,696 log 222 Not Found: /
+WARNING 2023-08-31 11:01:27,697 basehttp 154 "GET / HTTP/1.1" 404 2267
+ERROR 2023-08-31 11:02:57,442 log 222 Internal Server Error: /imagecode/
+Traceback (most recent call last):
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\python\pythonProject\blog\users\views.py", line 42, in get
+    text, image = captcha.generate_captcha()
+  File "D:\python\pythonProject\blog\libs\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "D:\python\pythonProject\blog\libs\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "D:\python\pythonProject\blog\libs\captcha\captcha.py", line 132, in text
+    c_width, c_height = draw.textsize(c, font=font)
+AttributeError: 'ImageDraw' object has no attribute 'textsize'
+ERROR 2023-08-31 11:02:57,446 basehttp 154 "GET /imagecode/?uuid=123 HTTP/1.1" 500 96721
+INFO 2023-08-31 11:06:10,705 autoreload 578 Watching for file changes with StatReloader
+WARNING 2023-08-31 11:06:11,277 log 222 Not Found: /
+WARNING 2023-08-31 11:06:11,278 basehttp 154 "GET / HTTP/1.1" 404 2267
+INFO 2023-08-31 11:06:27,985 basehttp 154 "GET /imagecode/?uuid=123 HTTP/1.1" 200 3243
+INFO 2023-08-31 11:08:28,428 basehttp 154 "GET /imagecode/?uuid=123 HTTP/1.1" 200 3462
+INFO 2023-08-31 11:11:39,179 autoreload 578 Watching for file changes with StatReloader
+WARNING 2023-08-31 11:11:39,694 log 222 Not Found: /
+WARNING 2023-08-31 11:11:39,695 basehttp 154 "GET / HTTP/1.1" 404 2267
+INFO 2023-08-31 11:11:54,969 basehttp 154 "GET /register/ HTTP/1.1" 200 5213
+INFO 2023-08-31 11:11:59,006 basehttp 154 "GET /imagecode/?uuid=6bf5312d-7a86-4cba-8c3b-10bdeb87b585 HTTP/1.1" 200 3237
+INFO 2023-08-31 11:12:19,230 basehttp 154 "GET /imagecode/?uuid=b5eaf341-b16b-47c9-9307-0634e1f73d20 HTTP/1.1" 200 3153
+INFO 2023-08-31 11:12:19,874 basehttp 154 "GET /imagecode/?uuid=6f7f79d6-ef2a-445c-b884-26461dc284d7 HTTP/1.1" 200 3095
+INFO 2023-08-31 11:12:20,358 basehttp 154 "GET /imagecode/?uuid=1783b5bb-7794-4a7f-81a4-bbf802e3b31f HTTP/1.1" 200 3214
+INFO 2023-08-31 11:12:20,757 basehttp 154 "GET /imagecode/?uuid=a9567e85-6517-43df-94af-a1651974177d HTTP/1.1" 200 3610
+INFO 2023-08-31 11:12:20,923 basehttp 154 "GET /imagecode/?uuid=ccd83fdb-b055-49aa-875c-5a3ce6aa8ee3 HTTP/1.1" 200 3279
+INFO 2023-08-31 11:12:21,092 basehttp 154 "GET /imagecode/?uuid=1237c79a-776c-4200-9c86-87e421ed6cfd HTTP/1.1" 200 3164
+INFO 2023-08-31 11:12:21,268 basehttp 154 "GET /imagecode/?uuid=1270cd91-885d-4fa3-a100-d57785f88275 HTTP/1.1" 200 3176
+INFO 2023-08-31 11:12:21,430 basehttp 154 "GET /imagecode/?uuid=0565308c-03f4-4c9e-9157-1a8df596076d HTTP/1.1" 200 3239
+INFO 2023-08-31 11:12:21,573 basehttp 154 "GET /imagecode/?uuid=bf56ddb2-f4a2-4407-a187-c7a5c6c9d5e9 HTTP/1.1" 200 2898
+INFO 2023-08-31 11:12:21,748 basehttp 154 "GET /imagecode/?uuid=942d88e3-dfe2-49c1-83c4-912a2c7492c5 HTTP/1.1" 200 3482
+INFO 2023-08-31 11:12:21,917 basehttp 154 "GET /imagecode/?uuid=b39d82c6-99ca-4c18-9786-352533b57424 HTTP/1.1" 200 3501
+INFO 2023-08-31 11:12:22,093 basehttp 154 "GET /imagecode/?uuid=98ec92ab-5c3b-481f-90e5-e9ab8be79e14 HTTP/1.1" 200 3208
+INFO 2023-08-31 11:12:31,412 basehttp 154 "GET /imagecode/?uuid=552c9351-1ab3-4630-838c-fd378e72ee70 HTTP/1.1" 200 3637
+INFO 2023-08-31 11:12:57,949 basehttp 154 "GET /imagecode/?uuid=69f26c97-f9c9-499b-a9a7-1ebbc23687fb HTTP/1.1" 200 3098
+INFO 2023-08-31 13:47:18,530 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-08-31 13:47:20,475 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 13:48:17,153 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-08-31 13:48:18,874 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 13:52:57,222 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-08-31 13:52:58,881 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 13:54:52,769 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-08-31 13:54:54,442 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 13:55:46,410 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-08-31 13:55:48,099 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 13:56:04,969 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-08-31 13:56:06,576 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 13:57:04,708 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-08-31 13:57:06,290 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 13:57:20,656 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-08-31 13:57:22,430 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 13:58:01,978 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-08-31 13:58:03,591 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 13:58:15,368 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-08-31 13:58:17,249 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 13:58:20,386 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-08-31 13:58:22,188 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 13:58:26,558 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-08-31 13:58:28,094 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 13:59:22,148 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-08-31 13:59:23,839 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 14:02:29,002 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-08-31 14:02:30,707 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 14:02:44,991 autoreload 578 Watching for file changes with StatReloader
+WARNING 2023-08-31 14:02:45,561 log 222 Not Found: /
+WARNING 2023-08-31 14:02:45,561 basehttp 154 "GET / HTTP/1.1" 404 2267
+INFO 2023-08-31 14:03:04,641 basehttp 154 "GET /register/ HTTP/1.1" 200 5213
+INFO 2023-08-31 14:03:04,762 basehttp 154 "GET /imagecode/?uuid=51b30954-fa8f-4c1d-8be4-cc0e55a2ada0 HTTP/1.1" 200 3115
+WARNING 2023-08-31 14:03:31,064 log 222 Not Found: /smscode/
+WARNING 2023-08-31 14:03:31,064 basehttp 154 "GET /smscode/?mobile=13225777935&image_code=b3gc&uuid=51b30954-fa8f-4c1d-8be4-cc0e55a2ada0 HTTP/1.1" 404 2394
+INFO 2023-08-31 14:04:53,091 autoreload 203 D:\python\pythonProject\blog\users\urls.py changed, reloading.
+INFO 2023-08-31 14:04:54,727 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 14:05:02,818 autoreload 203 D:\python\pythonProject\blog\users\urls.py changed, reloading.
+INFO 2023-08-31 14:05:04,389 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 14:05:31,220 autoreload 203 D:\python\pythonProject\blog\users\urls.py changed, reloading.
+INFO 2023-08-31 14:05:32,857 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 14:05:52,361 autoreload 578 Watching for file changes with StatReloader
+WARNING 2023-08-31 14:05:52,926 log 222 Not Found: /
+WARNING 2023-08-31 14:05:52,927 basehttp 154 "GET / HTTP/1.1" 404 2438
+INFO 2023-08-31 14:06:00,587 basehttp 154 "GET /imagecode/?uuid=86025d17-4ac6-4e62-8b71-79a429154aec HTTP/1.1" 200 3055
+INFO 2023-08-31 14:06:31,033 views 89 545749
+INFO 2023-08-31 14:06:38,282 basehttp 154 "GET /smscode/?mobile=13225777935&image_code=tkje&uuid=86025d17-4ac6-4e62-8b71-79a429154aec HTTP/1.1" 200 63
+INFO 2023-08-31 14:55:04,524 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-08-31 14:55:07,060 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 14:55:20,092 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-08-31 14:55:22,774 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 14:56:02,463 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-08-31 14:56:05,723 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 14:59:21,395 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-08-31 14:59:23,933 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 15:04:20,718 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-08-31 15:04:23,688 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 15:06:11,174 autoreload 578 Watching for file changes with StatReloader
+WARNING 2023-08-31 15:06:12,004 log 222 Not Found: /
+WARNING 2023-08-31 15:06:12,005 basehttp 154 "GET / HTTP/1.1" 404 2438
+INFO 2023-08-31 15:06:19,641 basehttp 154 "GET /imagecode/?uuid=de04755b-58bc-4d43-b765-7780342c2dbc HTTP/1.1" 200 2911
+INFO 2023-08-31 15:06:34,978 views 132 727702
+INFO 2023-08-31 15:06:34,982 basehttp 154 "GET /smscode/?mobile=13225777935&image_code=3lzv&uuid=de04755b-58bc-4d43-b765-7780342c2dbc HTTP/1.1" 200 63
+INFO 2023-08-31 15:06:53,200 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+WARNING 2023-08-31 15:06:53,339 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2023-08-31 15:06:58,923 basehttp 154 "GET /register/ HTTP/1.1" 200 5213
+INFO 2023-08-31 15:06:59,061 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2023-08-31 15:06:59,108 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2023-08-31 15:06:59,110 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2023-08-31 15:06:59,114 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2023-08-31 15:06:59,116 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2023-08-31 15:06:59,127 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 6407
+INFO 2023-08-31 15:06:59,215 basehttp 154 "GET /imagecode/?uuid=3ff523c2-ebe7-415b-bc33-a200cb5a2ecd HTTP/1.1" 200 3376
+INFO 2023-08-31 15:06:59,241 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+WARNING 2023-08-31 15:06:59,267 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2023-08-31 15:07:16,926 views 132 490618
+INFO 2023-08-31 15:07:16,927 basehttp 154 "GET /smscode/?mobile=13225777935&image_code=ggae&uuid=3ff523c2-ebe7-415b-bc33-a200cb5a2ecd HTTP/1.1" 200 63
+INFO 2023-08-31 15:08:44,126 basehttp 154 "GET /register/ HTTP/1.1" 200 5355
+INFO 2023-08-31 15:08:44,212 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2023-08-31 15:08:44,214 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2023-08-31 15:08:44,216 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2023-08-31 15:08:44,217 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2023-08-31 15:08:44,229 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 6407
+INFO 2023-08-31 15:08:44,238 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2023-08-31 15:08:44,324 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2023-08-31 15:08:44,386 basehttp 154 "GET /imagecode/?uuid=87619159-4620-4bbc-b3ae-5c8e3b1a1c38 HTTP/1.1" 200 3170
+WARNING 2023-08-31 15:08:44,479 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2023-08-31 15:09:07,468 views 132 573616
+INFO 2023-08-31 15:09:07,469 basehttp 154 "GET /smscode/?mobile=13225777935&image_code=uebv&uuid=87619159-4620-4bbc-b3ae-5c8e3b1a1c38 HTTP/1.1" 200 63
+INFO 2023-08-31 15:11:19,132 basehttp 154 "GET /register/ HTTP/1.1" 200 5355
+INFO 2023-08-31 15:11:19,217 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2023-08-31 15:11:19,219 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2023-08-31 15:11:19,221 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2023-08-31 15:11:19,223 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2023-08-31 15:11:19,227 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2023-08-31 15:11:19,234 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 6469
+INFO 2023-08-31 15:11:19,334 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2023-08-31 15:11:19,391 basehttp 154 "GET /imagecode/?uuid=e184b67e-4ad9-46e9-8236-347e68a8a3eb HTTP/1.1" 200 2969
+WARNING 2023-08-31 15:11:19,576 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2023-08-31 15:12:15,138 basehttp 154 "GET /smscode/?mobile=13225777935&image_code=qqku&uuid=e184b67e-4ad9-46e9-8236-347e68a8a3eb HTTP/1.1" 200 84
+INFO 2023-08-31 15:12:15,162 basehttp 154 "GET /imagecode/?uuid=b9fe61af-ad3a-4e8b-8d06-986cd7174b45 HTTP/1.1" 200 3161
+INFO 2023-08-31 15:12:30,953 basehttp 154 "GET /imagecode/?uuid=46cae7b4-d5b5-46a0-8bb0-901bd07a4339 HTTP/1.1" 200 3083
+INFO 2023-08-31 15:12:40,016 basehttp 154 "GET /smscode/?mobile=13225777935&image_code=3pbx&uuid=46cae7b4-d5b5-46a0-8bb0-901bd07a4339 HTTP/1.1" 200 84
+INFO 2023-08-31 15:12:40,041 basehttp 154 "GET /imagecode/?uuid=5b73b365-4039-454f-b58b-8ec258bb6580 HTTP/1.1" 200 3404
+INFO 2023-08-31 15:12:46,899 views 132 485683
+INFO 2023-08-31 15:12:46,900 basehttp 154 "GET /smscode/?mobile=13225777935&image_code=p5w8&uuid=5b73b365-4039-454f-b58b-8ec258bb6580 HTTP/1.1" 200 63
+INFO 2023-08-31 15:12:56,356 basehttp 154 "POST /register/ HTTP/1.1" 200 33
+INFO 2023-08-31 15:20:29,412 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 15:20:30,485 basehttp 154 "GET / HTTP/1.1" 200 11962
+INFO 2023-08-31 15:20:30,582 basehttp 154 "GET /static/common/common.css HTTP/1.1" 200 381
+INFO 2023-08-31 15:20:30,586 basehttp 154 "GET /static/md_css/monokai.css HTTP/1.1" 200 4118
+INFO 2023-08-31 15:20:30,599 basehttp 154 "GET /static/common/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2023-08-31 15:20:30,668 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2023-08-31 15:20:30,708 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 530
+INFO 2023-08-31 15:20:30,739 basehttp 154 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2023-08-31 15:20:30,758 basehttp 154 "GET /static/img/1.jpg HTTP/1.1" 200 78682
+INFO 2023-08-31 15:21:28,098 basehttp 154 "GET /static/detail.html HTTP/1.1" 200 8829
+INFO 2023-08-31 15:21:28,215 basehttp 154 "GET /static/prism/prism.css HTTP/1.1" 200 4033
+INFO 2023-08-31 15:21:28,222 basehttp 154 "GET /static/ckeditor/ckeditor-init.js HTTP/1.1" 200 2039
+INFO 2023-08-31 15:21:28,241 basehttp 154 "GET /static/js/detail.js HTTP/1.1" 200 1294
+INFO 2023-08-31 15:21:28,406 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/prism/lib/prism/prism_patched.min.js HTTP/1.1" 200 99487
+INFO 2023-08-31 15:21:28,412 basehttp 154 "GET /static/ckeditor/ckeditor/ckeditor.js HTTP/1.1" 200 690627
+INFO 2023-08-31 15:21:28,587 basehttp 154 "GET /static/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 200 338
+INFO 2023-08-31 15:21:28,616 basehttp 154 "GET /static/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 200 46921
+INFO 2023-08-31 15:21:28,627 basehttp 154 "GET /static/ckeditor/ckeditor/lang/en.js?t=I3I8 HTTP/1.1" 200 19035
+INFO 2023-08-31 15:21:28,662 basehttp 154 "GET /static/ckeditor/ckeditor/styles.js?t=I3I8 HTTP/1.1" 200 5583
+INFO 2023-08-31 15:21:28,702 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/prism/plugin.js?t=I3I8 HTTP/1.1" 200 4333
+INFO 2023-08-31 15:21:28,706 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/codesnippet/plugin.js?t=I3I8 HTTP/1.1" 200 3824
+INFO 2023-08-31 15:21:28,742 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/tableselection/styles/tableselection.css HTTP/1.1" 200 1082
+INFO 2023-08-31 15:21:28,742 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/scayt/dialogs/dialog.css HTTP/1.1" 200 419
+INFO 2023-08-31 15:21:28,743 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css HTTP/1.1" 200 381
+INFO 2023-08-31 15:21:28,743 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css HTTP/1.1" 200 1306
+INFO 2023-08-31 15:21:28,747 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/codesnippet/lang/en.js?t=I3I8 HTTP/1.1" 200 369
+INFO 2023-08-31 15:21:28,785 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/copyformatting/styles/copyformatting.css HTTP/1.1" 200 1513
+INFO 2023-08-31 15:21:28,813 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/codesnippet/icons/codesnippet.png?t=I3I8 HTTP/1.1" 200 597
+INFO 2023-08-31 15:21:28,820 basehttp 154 "GET /static/ckeditor/ckeditor/skins/moono-lisa/icons.png?t=95e5d83 HTTP/1.1" 200 12421
+INFO 2023-08-31 15:21:28,837 basehttp 154 "GET /static/ckeditor/ckeditor/contents.css?t=I3I8 HTTP/1.1" 200 2954
+INFO 2023-08-31 15:21:28,837 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/prism/lib/prism/prism_patched.min.css HTTP/1.1" 200 2063
+INFO 2023-08-31 15:21:37,873 basehttp 154 "GET / HTTP/1.1" 200 11962
+INFO 2023-08-31 15:21:37,954 basehttp 154 "GET /static/common/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2023-08-31 15:21:37,960 basehttp 154 "GET /static/md_css/monokai.css HTTP/1.1" 200 4118
+INFO 2023-08-31 15:21:37,966 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2023-08-31 15:21:37,971 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2023-08-31 15:21:37,972 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2023-08-31 15:21:37,974 basehttp 154 "GET /static/common/common.css HTTP/1.1" 200 381
+INFO 2023-08-31 15:21:37,976 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2023-08-31 15:21:38,067 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2023-08-31 15:21:38,069 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2023-08-31 15:21:38,091 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2023-08-31 15:21:38,102 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 530
+INFO 2023-08-31 15:21:38,113 basehttp 154 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2023-08-31 15:21:38,127 basehttp 154 "GET /static/img/1.jpg HTTP/1.1" 200 78682
+WARNING 2023-08-31 15:21:38,484 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2023-08-31 15:23:00,941 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-08-31 15:23:04,119 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 15:24:29,639 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 15:24:30,523 basehttp 154 "GET / HTTP/1.1" 200 11962
+INFO 2023-08-31 15:24:36,834 basehttp 154 "GET /register/ HTTP/1.1" 200 5345
+INFO 2023-08-31 15:24:37,050 basehttp 154 "GET /imagecode/?uuid=4563ae08-ad5b-4b37-8e6e-d2c780c48564 HTTP/1.1" 200 3550
+INFO 2023-08-31 15:24:38,741 basehttp 154 "GET /register/ HTTP/1.1" 200 5345
+INFO 2023-08-31 15:24:38,800 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-08-31 15:24:38,870 basehttp 154 "GET /imagecode/?uuid=8ce2756b-fc15-4cb1-9dd5-8ebfb3a28b31 HTTP/1.1" 200 3061
+INFO 2023-08-31 15:24:54,756 basehttp 154 "GET /imagecode/?uuid=82717a09-1e4b-4e36-99e5-6153904c5a55 HTTP/1.1" 200 3200
+INFO 2023-08-31 15:24:55,979 basehttp 154 "GET /imagecode/?uuid=cfb7aa23-7836-43d3-b405-98138740ab09 HTTP/1.1" 200 3173
+INFO 2023-08-31 15:25:02,444 views 136 063565
+INFO 2023-08-31 15:25:02,446 basehttp 154 "GET /smscode/?mobile=13225777935&image_code=rykz&uuid=cfb7aa23-7836-43d3-b405-98138740ab09 HTTP/1.1" 200 63
+WARNING 2023-08-31 15:25:07,305 log 222 Bad Request: /register/
+WARNING 2023-08-31 15:25:07,306 basehttp 154 "POST /register/ HTTP/1.1" 400 12
+INFO 2023-08-31 15:25:18,964 basehttp 154 "GET /imagecode/?uuid=6c335081-e6c8-4582-9bc8-9441a7fb4621 HTTP/1.1" 200 2953
+INFO 2023-08-31 15:25:30,359 basehttp 154 "GET /imagecode/?uuid=3aa0304c-968f-4142-aeb3-b077fae1df22 HTTP/1.1" 200 2911
+INFO 2023-08-31 15:25:31,252 basehttp 154 "GET /imagecode/?uuid=71e96195-8415-444a-a8f1-6e63208df193 HTTP/1.1" 200 3301
+INFO 2023-08-31 15:25:31,948 basehttp 154 "GET /imagecode/?uuid=2f069f6d-bf62-4cff-9879-3a7133cfb95e HTTP/1.1" 200 3352
+INFO 2023-08-31 15:25:32,827 basehttp 154 "GET /imagecode/?uuid=b0bb10cd-350e-4f0a-980e-1a8eaf89ffd1 HTTP/1.1" 200 3143
+INFO 2023-08-31 15:25:33,939 basehttp 154 "GET /imagecode/?uuid=90b83c0a-2856-4481-9862-f8d2b0e23eae HTTP/1.1" 200 3148
+INFO 2023-08-31 15:25:39,940 views 136 748950
+INFO 2023-08-31 15:25:39,941 basehttp 154 "GET /smscode/?mobile=13225777936&image_code=ugfk&uuid=90b83c0a-2856-4481-9862-f8d2b0e23eae HTTP/1.1" 200 63
+INFO 2023-08-31 15:25:41,644 basehttp 154 "GET /imagecode/?uuid=05d73ed5-70b9-45a0-942c-045744762952 HTTP/1.1" 200 3109
+INFO 2023-08-31 15:25:42,513 basehttp 154 "GET /imagecode/?uuid=735c186b-8a25-4236-aa1c-d5ba5b9383ad HTTP/1.1" 200 3154
+INFO 2023-08-31 15:25:43,954 basehttp 154 "GET /imagecode/?uuid=eb50edc3-83cc-4026-908f-96ca22874ee4 HTTP/1.1" 200 3104
+INFO 2023-08-31 15:25:44,836 basehttp 154 "GET /imagecode/?uuid=9fd648d6-b2ce-4aaf-9f46-8039ebdcaf7b HTTP/1.1" 200 3095
+INFO 2023-08-31 15:25:45,477 basehttp 154 "GET /imagecode/?uuid=06fb2fe6-64e4-4307-b18c-b846df5d8276 HTTP/1.1" 200 3307
+INFO 2023-08-31 15:26:45,347 views 136 019438
+INFO 2023-08-31 15:26:45,348 basehttp 154 "GET /smscode/?mobile=13225777936&image_code=w85b&uuid=06fb2fe6-64e4-4307-b18c-b846df5d8276 HTTP/1.1" 200 63
+INFO 2023-08-31 15:26:52,408 basehttp 154 "GET /register/ HTTP/1.1" 200 5345
+INFO 2023-08-31 15:26:52,473 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-08-31 15:26:52,547 basehttp 154 "GET /imagecode/?uuid=4a8c4ad9-cde2-414b-991d-5e2eaf340f68 HTTP/1.1" 200 3482
+INFO 2023-08-31 15:27:09,221 views 136 239247
+INFO 2023-08-31 15:27:09,222 basehttp 154 "GET /smscode/?mobile=13225777936&image_code=umbl&uuid=4a8c4ad9-cde2-414b-991d-5e2eaf340f68 HTTP/1.1" 200 63
+INFO 2023-08-31 15:27:17,200 basehttp 154 "POST /register/ HTTP/1.1" 302 0
+INFO 2023-08-31 15:27:17,216 basehttp 154 "GET / HTTP/1.1" 200 11962
+INFO 2023-08-31 15:28:33,212 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-08-31 15:28:35,839 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 15:29:54,048 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-08-31 15:29:56,461 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 15:30:01,836 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-08-31 15:30:04,286 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 15:30:36,275 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 15:30:37,135 basehttp 154 "GET / HTTP/1.1" 200 11962
+INFO 2023-08-31 15:30:41,341 basehttp 154 "GET / HTTP/1.1" 200 11962
+INFO 2023-08-31 15:30:47,259 basehttp 154 "GET /register/ HTTP/1.1" 200 5345
+INFO 2023-08-31 15:30:47,427 basehttp 154 "GET /imagecode/?uuid=b27f2667-1641-4a9e-a2f5-245fcbae178e HTTP/1.1" 200 2863
+INFO 2023-08-31 15:30:50,208 basehttp 154 "GET /register/ HTTP/1.1" 200 5345
+INFO 2023-08-31 15:30:50,263 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-08-31 15:30:50,331 basehttp 154 "GET /imagecode/?uuid=de6cc8c1-4af2-4069-b784-5a54e28210e5 HTTP/1.1" 200 3047
+INFO 2023-08-31 15:31:02,590 basehttp 154 "GET /imagecode/?uuid=daaa4de1-2116-454a-ac9d-91a0212bd94c HTTP/1.1" 200 3102
+INFO 2023-08-31 15:31:07,355 basehttp 154 "GET /imagecode/?uuid=ca80f464-8b9c-40c5-89ef-a2a448ee46c6 HTTP/1.1" 200 3268
+INFO 2023-08-31 15:31:08,890 basehttp 154 "GET /imagecode/?uuid=9de43db4-4cd3-4ec0-87bb-e8b1353ed1b2 HTTP/1.1" 200 3325
+INFO 2023-08-31 15:31:16,314 views 139 528349
+INFO 2023-08-31 15:31:16,316 basehttp 154 "GET /smscode/?mobile=13225777937&image_code=csvt&uuid=9de43db4-4cd3-4ec0-87bb-e8b1353ed1b2 HTTP/1.1" 200 63
+INFO 2023-08-31 15:31:20,208 basehttp 154 "GET /register/ HTTP/1.1" 200 5345
+INFO 2023-08-31 15:31:20,333 basehttp 154 "GET /imagecode/?uuid=f5bea316-4d07-49d2-a340-d8a410fab1fd HTTP/1.1" 200 2688
+INFO 2023-08-31 15:31:33,140 views 139 989823
+INFO 2023-08-31 15:31:33,142 basehttp 154 "GET /smscode/?mobile=13225777937&image_code=iqlb&uuid=f5bea316-4d07-49d2-a340-d8a410fab1fd HTTP/1.1" 200 63
+INFO 2023-08-31 15:31:44,946 basehttp 154 "POST /register/ HTTP/1.1" 302 0
+INFO 2023-08-31 15:31:44,959 basehttp 154 "GET / HTTP/1.1" 200 11962
+INFO 2023-08-31 15:34:45,027 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-08-31 15:34:47,575 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 15:35:49,099 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 15:35:49,978 basehttp 154 "GET / HTTP/1.1" 200 11962
+INFO 2023-08-31 15:36:05,576 basehttp 154 "GET / HTTP/1.1" 200 11962
+INFO 2023-08-31 15:36:15,482 basehttp 154 "GET /register/ HTTP/1.1" 200 5345
+INFO 2023-08-31 15:36:15,667 basehttp 154 "GET /imagecode/?uuid=2a83ed20-a863-4208-ab71-587f0d1432e4 HTTP/1.1" 200 3493
+INFO 2023-08-31 15:36:18,567 basehttp 154 "GET /register/ HTTP/1.1" 200 5345
+INFO 2023-08-31 15:36:18,624 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-08-31 15:36:18,697 basehttp 154 "GET /imagecode/?uuid=6596a5a3-3baa-421d-8277-6d903b820e02 HTTP/1.1" 200 3438
+INFO 2023-08-31 15:36:36,557 views 148 541738
+INFO 2023-08-31 15:36:36,559 basehttp 154 "GET /smscode/?mobile=13225777938&image_code=xvtw&uuid=6596a5a3-3baa-421d-8277-6d903b820e02 HTTP/1.1" 200 63
+INFO 2023-08-31 15:36:47,925 basehttp 154 "POST /register/ HTTP/1.1" 302 0
+INFO 2023-08-31 15:36:47,939 basehttp 154 "GET / HTTP/1.1" 200 11962
+INFO 2023-08-31 15:40:14,946 autoreload 203 D:\python\pythonProject\blog\users\urls.py changed, reloading.
+INFO 2023-08-31 15:40:17,554 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 15:40:56,075 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 15:40:56,958 basehttp 154 "GET / HTTP/1.1" 200 11962
+INFO 2023-08-31 15:41:01,482 basehttp 154 "GET /login HTTP/1.1" 301 0
+ERROR 2023-08-31 15:41:01,693 log 222 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\python\pythonProject\blog\users\views.py", line 162, in get
+    return render(request,'login.html')
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: login.html
+ERROR 2023-08-31 15:41:01,706 basehttp 154 "GET /login/ HTTP/1.1" 500 96431
+INFO 2023-08-31 15:42:34,158 basehttp 154 "GET /login/ HTTP/1.1" 200 3084
+INFO 2023-08-31 15:42:34,270 basehttp 154 "GET /static/js/login.js HTTP/1.1" 200 677
+INFO 2023-08-31 15:45:00,696 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 15:45:01,567 basehttp 154 "GET / HTTP/1.1" 200 11952
+INFO 2023-08-31 15:45:04,480 basehttp 154 "GET /login/ HTTP/1.1" 200 3091
+INFO 2023-08-31 15:45:06,449 basehttp 154 "GET /login/ HTTP/1.1" 200 3091
+WARNING 2023-08-31 15:45:13,498 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2023-08-31 15:45:14,038 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2023-08-31 15:45:14,351 basehttp 154 "GET / HTTP/1.1" 200 11952
+INFO 2023-08-31 15:45:14,429 basehttp 154 "GET /static/md_css/monokai.css HTTP/1.1" 200 4118
+INFO 2023-08-31 15:45:14,442 basehttp 154 "GET /static/common/common.css HTTP/1.1" 200 381
+INFO 2023-08-31 15:45:14,445 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2023-08-31 15:45:14,448 basehttp 154 "GET /static/common/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2023-08-31 15:45:14,451 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2023-08-31 15:45:14,454 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2023-08-31 15:45:14,461 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2023-08-31 15:45:14,529 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2023-08-31 15:45:14,555 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2023-08-31 15:45:14,573 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 530
+INFO 2023-08-31 15:45:14,584 basehttp 154 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2023-08-31 15:45:14,597 basehttp 154 "GET /static/img/1.jpg HTTP/1.1" 200 78682
+INFO 2023-08-31 15:45:14,903 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+WARNING 2023-08-31 15:45:15,357 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2023-08-31 15:45:18,965 basehttp 154 "GET /login/ HTTP/1.1" 200 3091
+INFO 2023-08-31 15:45:19,066 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2023-08-31 15:45:19,071 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2023-08-31 15:45:19,074 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2023-08-31 15:45:19,076 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2023-08-31 15:45:19,080 basehttp 154 "GET /static/js/login.js HTTP/1.1" 200 677
+INFO 2023-08-31 15:45:19,083 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+WARNING 2023-08-31 15:45:19,169 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2023-08-31 15:45:19,198 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2023-08-31 15:45:32,512 basehttp 154 "GET /register/ HTTP/1.1" 200 5335
+INFO 2023-08-31 15:45:32,582 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-08-31 15:45:32,740 basehttp 154 "GET /imagecode/?uuid=6586d1f3-6790-4621-bce1-09a175fed94c HTTP/1.1" 200 3541
+INFO 2023-08-31 15:47:22,522 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-08-31 15:47:24,145 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 15:48:40,242 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-08-31 15:48:41,838 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 15:48:56,304 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-08-31 15:48:57,846 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 15:49:20,905 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-08-31 15:49:22,526 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 15:52:34,511 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-08-31 15:52:37,062 autoreload 578 Watching for file changes with StatReloader
+WARNING 2023-08-31 15:58:12,845 log 222 Forbidden (CSRF token missing or incorrect.): /login/
+WARNING 2023-08-31 15:58:12,846 basehttp 154 "POST /login/ HTTP/1.1" 403 2513
+WARNING 2023-08-31 15:58:39,314 log 222 Forbidden (CSRF token missing or incorrect.): /login/
+WARNING 2023-08-31 15:58:39,315 basehttp 154 "POST /login/ HTTP/1.1" 403 2513
+WARNING 2023-08-31 15:58:43,840 log 222 Forbidden (CSRF token missing or incorrect.): /login/
+WARNING 2023-08-31 15:58:43,841 basehttp 154 "POST /login/ HTTP/1.1" 403 2513
+INFO 2023-08-31 15:58:49,397 basehttp 154 "GET / HTTP/1.1" 200 11952
+INFO 2023-08-31 15:58:53,796 basehttp 154 "GET /login/ HTTP/1.1" 200 3233
+WARNING 2023-08-31 15:59:02,495 log 222 Bad Request: /login/
+WARNING 2023-08-31 15:59:02,495 basehttp 154 "POST /login/ HTTP/1.1" 400 24
+WARNING 2023-08-31 15:59:14,804 log 222 Bad Request: /login/
+WARNING 2023-08-31 15:59:14,805 basehttp 154 "POST /login/ HTTP/1.1" 400 24
+WARNING 2023-08-31 15:59:27,862 log 222 Bad Request: /login/
+WARNING 2023-08-31 15:59:27,862 basehttp 154 "POST /login/ HTTP/1.1" 400 24
+WARNING 2023-08-31 15:59:38,294 log 222 Bad Request: /login/
+WARNING 2023-08-31 15:59:38,295 basehttp 154 "POST /login/ HTTP/1.1" 400 24
+INFO 2023-08-31 16:00:01,756 basehttp 154 "GET /login/ HTTP/1.1" 200 3233
+WARNING 2023-08-31 16:00:20,008 log 222 Bad Request: /login/
+WARNING 2023-08-31 16:00:20,009 basehttp 154 "POST /login/ HTTP/1.1" 400 24
+WARNING 2023-08-31 16:00:34,312 log 222 Bad Request: /login/
+WARNING 2023-08-31 16:00:34,313 basehttp 154 "POST /login/ HTTP/1.1" 400 24
+INFO 2023-08-31 16:02:22,133 autoreload 203 D:\python\pythonProject\blog\users\models.py changed, reloading.
+INFO 2023-08-31 16:02:23,898 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 16:02:54,154 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 16:02:54,830 basehttp 154 "GET / HTTP/1.1" 200 11952
+WARNING 2023-08-31 16:03:16,198 log 222 Bad Request: /login/
+WARNING 2023-08-31 16:03:16,198 basehttp 154 "POST /login/ HTTP/1.1" 400 24
+INFO 2023-08-31 16:03:20,739 basehttp 154 "GET /login/ HTTP/1.1" 200 3233
+INFO 2023-08-31 16:03:25,430 basehttp 154 "GET / HTTP/1.1" 200 11952
+INFO 2023-08-31 16:03:29,930 basehttp 154 "GET /login/ HTTP/1.1" 200 3233
+INFO 2023-08-31 16:03:48,500 basehttp 154 "GET /login/ HTTP/1.1" 200 3233
+WARNING 2023-08-31 16:04:02,663 log 222 Bad Request: /login/
+WARNING 2023-08-31 16:04:02,663 basehttp 154 "POST /login/ HTTP/1.1" 400 24
+INFO 2023-08-31 16:04:29,844 basehttp 154 "POST /login/ HTTP/1.1" 302 0
+INFO 2023-08-31 16:04:29,854 basehttp 154 "GET / HTTP/1.1" 200 11952
+INFO 2023-08-31 16:05:23,736 basehttp 154 "GET /login/ HTTP/1.1" 200 3233
+WARNING 2023-08-31 16:05:44,988 log 222 Forbidden (CSRF cookie not set.): /login/
+WARNING 2023-08-31 16:05:44,988 basehttp 154 "POST /login/ HTTP/1.1" 403 2868
+INFO 2023-08-31 16:05:53,561 basehttp 154 "GET /login/ HTTP/1.1" 200 3233
+INFO 2023-08-31 16:05:54,676 basehttp 154 "GET /login/ HTTP/1.1" 200 3233
+INFO 2023-08-31 16:06:13,563 basehttp 154 "POST /login/ HTTP/1.1" 302 0
+INFO 2023-08-31 16:06:13,572 basehttp 154 "GET / HTTP/1.1" 200 11952
+INFO 2023-08-31 16:59:15,678 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 16:59:16,290 basehttp 154 "GET / HTTP/1.1" 200 11929
+INFO 2023-08-31 16:59:19,262 basehttp 154 "GET / HTTP/1.1" 200 11929
+INFO 2023-08-31 17:01:45,976 basehttp 154 "GET / HTTP/1.1" 200 11936
+INFO 2023-08-31 17:25:41,918 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-08-31 17:25:43,564 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 17:26:17,968 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-08-31 17:26:19,581 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 17:29:29,808 autoreload 578 Watching for file changes with StatReloader
+ERROR 2023-08-31 17:29:30,745 log 222 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\python\pythonProject\blog\home\views.py", line 11, in get
+    return render(request, 'index.html')
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\urls\resolvers.py", line 660, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'logout' not found. 'logout' is not a valid view function or pattern name.
+ERROR 2023-08-31 17:29:30,751 basehttp 154 "GET / HTTP/1.1" 500 142694
+INFO 2023-08-31 17:30:21,099 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 17:31:40,523 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 17:31:41,172 basehttp 154 "GET / HTTP/1.1" 200 11943
+INFO 2023-08-31 17:31:44,383 basehttp 154 "GET / HTTP/1.1" 200 11943
+ERROR 2023-08-31 17:31:46,048 log 222 Internal Server Error: /logout/
+Traceback (most recent call last):
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: as_view() takes 1 positional argument but 2 were given
+ERROR 2023-08-31 17:31:46,049 basehttp 154 "GET /logout/ HTTP/1.1" 500 70701
+INFO 2023-08-31 17:34:18,678 autoreload 203 D:\python\pythonProject\blog\users\urls.py changed, reloading.
+INFO 2023-08-31 17:34:20,299 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 17:34:28,685 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 17:34:29,313 basehttp 154 "GET / HTTP/1.1" 200 11943
+ERROR 2023-08-31 17:34:34,094 log 222 Internal Server Error: /logout/
+Traceback (most recent call last):
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: as_view() takes 1 positional argument but 2 were given
+ERROR 2023-08-31 17:34:34,095 basehttp 154 "GET /logout/ HTTP/1.1" 500 70836
+INFO 2023-08-31 17:34:42,333 basehttp 154 "GET / HTTP/1.1" 200 11943
+ERROR 2023-08-31 17:34:44,529 log 222 Internal Server Error: /logout/
+Traceback (most recent call last):
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: as_view() takes 1 positional argument but 2 were given
+ERROR 2023-08-31 17:34:44,530 basehttp 154 "GET /logout/ HTTP/1.1" 500 70701
+INFO 2023-08-31 17:38:08,605 basehttp 154 "GET / HTTP/1.1" 200 11925
+INFO 2023-08-31 17:38:10,420 basehttp 154 "GET / HTTP/1.1" 200 11925
+WARNING 2023-08-31 17:38:12,148 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2023-08-31 17:38:12,839 basehttp 154 "GET / HTTP/1.1" 200 11925
+INFO 2023-08-31 17:38:12,925 basehttp 154 "GET /static/common/common.css HTTP/1.1" 200 381
+INFO 2023-08-31 17:38:12,927 basehttp 154 "GET /static/md_css/monokai.css HTTP/1.1" 200 4118
+INFO 2023-08-31 17:38:12,928 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2023-08-31 17:38:12,930 basehttp 154 "GET /static/common/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2023-08-31 17:38:12,939 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2023-08-31 17:38:12,973 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2023-08-31 17:38:12,976 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2023-08-31 17:38:12,992 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2023-08-31 17:38:13,030 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2023-08-31 17:38:13,068 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2023-08-31 17:38:13,080 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 530
+INFO 2023-08-31 17:38:13,099 basehttp 154 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2023-08-31 17:38:13,109 basehttp 154 "GET /static/img/1.jpg HTTP/1.1" 200 78682
+INFO 2023-08-31 17:38:13,321 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+WARNING 2023-08-31 17:38:19,304 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2023-08-31 17:38:45,882 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 17:38:46,622 basehttp 154 "GET / HTTP/1.1" 200 11925
+ERROR 2023-08-31 17:39:10,280 log 222 Internal Server Error: /logout/
+Traceback (most recent call last):
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: as_view() takes 1 positional argument but 2 were given
+ERROR 2023-08-31 17:39:10,282 basehttp 154 "GET /logout/ HTTP/1.1" 500 70962
+INFO 2023-08-31 17:40:04,799 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 17:40:05,377 basehttp 154 "GET / HTTP/1.1" 200 11925
+ERROR 2023-08-31 17:40:12,456 log 222 Internal Server Error: /logout/
+Traceback (most recent call last):
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: as_view() takes 1 positional argument but 2 were given
+ERROR 2023-08-31 17:40:12,458 basehttp 154 "GET /logout/ HTTP/1.1" 500 70701
+INFO 2023-08-31 17:41:15,412 autoreload 203 D:\python\pythonProject\blog\users\urls.py changed, reloading.
+INFO 2023-08-31 17:41:20,039 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-08-31 17:41:20,731 basehttp 154 "GET / HTTP/1.1" 200 11925
+INFO 2023-08-31 17:41:24,425 basehttp 154 "GET /logout/ HTTP/1.1" 302 0
+INFO 2023-08-31 17:41:24,438 basehttp 154 "GET / HTTP/1.1" 200 11925
+INFO 2023-08-31 17:41:41,293 basehttp 154 "GET / HTTP/1.1" 200 11925
+INFO 2023-09-04 09:44:55,818 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-04 09:44:56,800 basehttp 154 "GET / HTTP/1.1" 200 11925
+INFO 2023-09-04 09:44:56,988 basehttp 154 "GET /static/js/index.js HTTP/1.1" 304 0
+WARNING 2023-09-04 09:44:57,176 log 222 Not Found: /favicon.ico
+WARNING 2023-09-04 09:44:57,176 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2986
+INFO 2023-09-04 09:44:58,331 basehttp 154 "GET /login/ HTTP/1.1" 200 3233
+INFO 2023-09-04 09:45:08,602 basehttp 154 "POST /login/ HTTP/1.1" 302 0
+INFO 2023-09-04 09:45:08,612 basehttp 154 "GET / HTTP/1.1" 200 11925
+INFO 2023-09-04 09:45:11,137 basehttp 154 "GET /logout/ HTTP/1.1" 302 0
+INFO 2023-09-04 09:45:11,146 basehttp 154 "GET / HTTP/1.1" 200 11925
