@@ -672,3 +672,62 @@ INFO 2023-09-04 09:45:08,602 basehttp 154 "POST /login/ HTTP/1.1" 302 0
 INFO 2023-09-04 09:45:08,612 basehttp 154 "GET / HTTP/1.1" 200 11925
 INFO 2023-09-04 09:45:11,137 basehttp 154 "GET /logout/ HTTP/1.1" 302 0
 INFO 2023-09-04 09:45:11,146 basehttp 154 "GET / HTTP/1.1" 200 11925
+INFO 2023-09-06 10:31:48,394 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-06 10:31:49,245 basehttp 154 "GET / HTTP/1.1" 200 11925
+INFO 2023-09-06 10:31:49,424 basehttp 154 "GET /static/js/index.js HTTP/1.1" 304 0
+WARNING 2023-09-06 10:31:49,595 log 222 Not Found: /favicon.ico
+WARNING 2023-09-06 10:31:49,595 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 3171
+INFO 2023-09-06 10:32:07,815 basehttp 154 "GET /forgetpassword HTTP/1.1" 301 0
+INFO 2023-09-06 10:32:07,823 basehttp 154 "GET /forgetpassword/ HTTP/1.1" 200 5214
+INFO 2023-09-06 10:32:07,876 basehttp 154 "GET /static/img/image_code.png HTTP/1.1" 200 3483
+INFO 2023-09-06 10:32:07,897 basehttp 154 "GET /static/js/forget_password.js HTTP/1.1" 200 6567
+INFO 2023-09-06 10:37:14,653 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-06 10:37:15,084 basehttp 154 "GET / HTTP/1.1" 200 11925
+INFO 2023-09-06 10:37:17,952 basehttp 154 "GET /forgetpassword/ HTTP/1.1" 200 5194
+INFO 2023-09-06 10:37:18,083 basehttp 154 "GET /imagecode/?uuid=c4982c1c-08fe-468c-ac2e-23c43218be25 HTTP/1.1" 200 3173
+INFO 2023-09-06 10:37:22,934 basehttp 154 "GET /imagecode/?uuid=c749a177-9b79-4a94-968f-09bcf0ee311e HTTP/1.1" 200 2710
+INFO 2023-09-06 10:37:23,701 basehttp 154 "GET /imagecode/?uuid=7509163e-cef4-47bf-b578-ae82d7c592cd HTTP/1.1" 200 3130
+INFO 2023-09-06 10:37:24,134 basehttp 154 "GET /imagecode/?uuid=fec5c909-ae17-4847-93ae-73d79190c8fb HTTP/1.1" 200 2766
+INFO 2023-09-06 10:37:24,518 basehttp 154 "GET /imagecode/?uuid=079216a7-59e8-495d-8024-619595d5fd3d HTTP/1.1" 200 3370
+INFO 2023-09-06 10:37:24,751 basehttp 154 "GET /imagecode/?uuid=1ec93267-4033-41f7-ab22-d0219ea96d37 HTTP/1.1" 200 3329
+INFO 2023-09-06 10:37:24,932 basehttp 154 "GET /imagecode/?uuid=477071f1-efc2-46d3-b170-7e7dd1b30d38 HTTP/1.1" 200 2905
+INFO 2023-09-06 10:37:25,068 basehttp 154 "GET /imagecode/?uuid=de769ba7-ed2e-40e8-83ad-9b1ddc26572b HTTP/1.1" 200 3020
+INFO 2023-09-06 10:37:25,214 basehttp 154 "GET /imagecode/?uuid=78653b8a-6dab-4ca9-a252-d4a216443f99 HTTP/1.1" 200 3285
+INFO 2023-09-06 10:37:25,357 basehttp 154 "GET /imagecode/?uuid=2d4c46ab-f1aa-4f78-950c-27b9f50da8a0 HTTP/1.1" 200 3256
+INFO 2023-09-06 10:37:25,669 basehttp 154 "GET /imagecode/?uuid=15e390d7-4e4b-46f7-ac93-c4059c0cfdba HTTP/1.1" 200 3292
+INFO 2023-09-06 10:37:25,821 basehttp 154 "GET /imagecode/?uuid=5439eef1-06f5-433b-9a9b-a269ec5b2e94 HTTP/1.1" 200 2963
+INFO 2023-09-06 10:37:25,972 basehttp 154 "GET /imagecode/?uuid=112d7c90-a24f-47e4-b93b-d149f4ae13b0 HTTP/1.1" 200 3265
+INFO 2023-09-06 10:37:26,142 basehttp 154 "GET /imagecode/?uuid=e35c0d50-7b4f-42bc-a5cb-d6bcfb871dc3 HTTP/1.1" 200 3360
+INFO 2023-09-06 10:37:26,300 basehttp 154 "GET /imagecode/?uuid=28de9fe9-5e31-49bb-b46b-907b5cf22cb8 HTTP/1.1" 200 3312
+INFO 2023-09-06 10:37:34,243 basehttp 154 "GET /login/ HTTP/1.1" 200 3233
+INFO 2023-09-06 10:38:36,331 basehttp 154 "GET /login/ HTTP/1.1" 200 3219
+INFO 2023-09-06 10:38:37,336 basehttp 154 "GET /forgetpassword/ HTTP/1.1" 200 5194
+INFO 2023-09-06 10:38:37,417 basehttp 154 "GET /imagecode/?uuid=44b381eb-f4fe-4acc-8280-d5c9172b3ed8 HTTP/1.1" 200 3286
+INFO 2023-09-06 10:38:45,078 basehttp 154 "GET /forgetpassword/ HTTP/1.1" 200 5194
+INFO 2023-09-06 10:38:45,145 basehttp 154 "GET /imagecode/?uuid=29503bda-49ee-47ae-9269-ae1edadf3fcc HTTP/1.1" 200 3372
+INFO 2023-09-06 10:40:58,592 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-09-06 10:40:59,465 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-06 10:42:00,033 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-09-06 10:42:00,872 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-06 10:49:42,647 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-06 10:49:43,089 basehttp 154 "GET / HTTP/1.1" 200 11925
+INFO 2023-09-06 10:49:44,874 basehttp 154 "GET /login/ HTTP/1.1" 200 3219
+INFO 2023-09-06 10:49:46,896 basehttp 154 "GET /forgetpassword/ HTTP/1.1" 200 5194
+INFO 2023-09-06 10:49:47,006 basehttp 154 "GET /imagecode/?uuid=4d7f515a-b266-46ca-93de-acc8977ac379 HTTP/1.1" 200 3145
+INFO 2023-09-06 10:50:06,802 basehttp 154 "GET /imagecode/?uuid=0094e391-67a0-4607-9db1-36274bd44891 HTTP/1.1" 200 3085
+INFO 2023-09-06 10:50:14,806 basehttp 154 "GET /smscode/?mobile=13225777935&image_code=ygma&uuid=0094e391-67a0-4607-9db1-36274bd44891 HTTP/1.1" 200 84
+INFO 2023-09-06 10:50:14,819 basehttp 154 "GET /imagecode/?uuid=d6953173-0e5b-490e-942d-8e2c854f30c9 HTTP/1.1" 200 3378
+INFO 2023-09-06 10:50:25,428 views 148 660514
+INFO 2023-09-06 10:50:25,429 basehttp 154 "GET /smscode/?mobile=13225777935&image_code=nxlr&uuid=d6953173-0e5b-490e-942d-8e2c854f30c9 HTTP/1.1" 200 63
+WARNING 2023-09-06 10:50:46,194 log 222 Forbidden (CSRF token missing or incorrect.): /forgetpassword/
+WARNING 2023-09-06 10:50:46,195 basehttp 154 "POST /forgetpassword/ HTTP/1.1" 403 2513
+INFO 2023-09-06 10:54:38,654 basehttp 154 "GET /forgetpassword/ HTTP/1.1" 200 5336
+INFO 2023-09-06 10:54:38,737 basehttp 154 "GET /imagecode/?uuid=b21d048d-dcd3-41fe-90c7-ad9590f84cb8 HTTP/1.1" 200 3380
+INFO 2023-09-06 10:54:57,621 basehttp 154 "GET /imagecode/?uuid=4c89c7af-9f43-4ad7-b5ee-581922387e06 HTTP/1.1" 200 3368
+INFO 2023-09-06 10:54:57,678 basehttp 154 "GET /imagecode/?uuid=45507c8e-8cd8-4345-9461-00e475802bb2 HTTP/1.1" 200 3425
+INFO 2023-09-06 10:55:05,011 views 148 472833
+INFO 2023-09-06 10:55:05,012 basehttp 154 "GET /smscode/?mobile=13225777935&image_code=dxt6&uuid=45507c8e-8cd8-4345-9461-00e475802bb2 HTTP/1.1" 200 63
+INFO 2023-09-06 10:55:11,751 basehttp 154 "POST /forgetpassword/ HTTP/1.1" 302 0
+INFO 2023-09-06 10:55:11,761 basehttp 154 "GET /login/ HTTP/1.1" 200 3219
+INFO 2023-09-06 10:55:54,442 basehttp 154 "POST /login/ HTTP/1.1" 302 0
+INFO 2023-09-06 10:55:54,452 basehttp 154 "GET / HTTP/1.1" 200 11925
