@@ -923,3 +923,293 @@ INFO 2023-09-07 10:31:21,389 autoreload 203 D:\python\pythonProject\blog\blog\ur
 INFO 2023-09-07 10:31:22,945 autoreload 578 Watching for file changes with StatReloader
 INFO 2023-09-07 10:32:02,243 autoreload 203 D:\python\pythonProject\blog\blog\urls.py changed, reloading.
 INFO 2023-09-07 10:32:03,860 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 10:33:19,805 basehttp 154 "GET / HTTP/1.1" 200 11912
+INFO 2023-09-07 10:33:19,886 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2023-09-07 10:33:19,891 basehttp 154 "GET /static/md_css/monokai.css HTTP/1.1" 200 4118
+INFO 2023-09-07 10:33:19,898 basehttp 154 "GET /static/common/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2023-09-07 10:33:19,900 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2023-09-07 10:33:19,902 basehttp 154 "GET /static/common/common.css HTTP/1.1" 200 381
+INFO 2023-09-07 10:33:19,904 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2023-09-07 10:33:19,949 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2023-09-07 10:33:19,952 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2023-09-07 10:33:19,968 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2023-09-07 10:33:19,976 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2023-09-07 10:33:19,994 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 530
+INFO 2023-09-07 10:33:20,011 basehttp 154 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2023-09-07 10:33:20,028 basehttp 154 "GET /static/img/1.jpg HTTP/1.1" 200 78682
+WARNING 2023-09-07 10:33:20,181 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2023-09-07 10:33:22,804 basehttp 154 "GET /static/write_blog.html HTTP/1.1" 200 5750
+INFO 2023-09-07 10:33:22,867 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2023-09-07 10:33:22,869 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2023-09-07 10:33:22,874 basehttp 154 "GET /static/md_css/monokai.css HTTP/1.1" 200 4118
+INFO 2023-09-07 10:33:22,880 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2023-09-07 10:33:22,880 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2023-09-07 10:33:22,885 basehttp 154 "GET /static/ckeditor/ckeditor-init.js HTTP/1.1" 200 2039
+INFO 2023-09-07 10:33:22,887 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2023-09-07 10:33:22,899 basehttp 154 "GET /static/js/write_blog.js HTTP/1.1" 200 521
+INFO 2023-09-07 10:33:22,936 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2023-09-07 10:33:23,010 basehttp 154 "GET /static/ckeditor/ckeditor/ckeditor.js HTTP/1.1" 200 690627
+WARNING 2023-09-07 10:33:23,046 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2023-09-07 10:33:23,138 basehttp 154 "GET /static/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 200 338
+INFO 2023-09-07 10:33:23,162 basehttp 154 "GET /static/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 200 46921
+INFO 2023-09-07 10:33:23,170 basehttp 154 "GET /static/ckeditor/ckeditor/lang/zh-cn.js?t=I3I8 HTTP/1.1" 200 18818
+INFO 2023-09-07 10:33:23,200 basehttp 154 "GET /static/ckeditor/ckeditor/styles.js?t=I3I8 HTTP/1.1" 200 5583
+INFO 2023-09-07 10:33:23,225 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css HTTP/1.1" 200 381
+INFO 2023-09-07 10:33:23,226 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/scayt/dialogs/dialog.css HTTP/1.1" 200 419
+INFO 2023-09-07 10:33:23,228 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/tableselection/styles/tableselection.css HTTP/1.1" 200 1082
+INFO 2023-09-07 10:33:23,231 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/copyformatting/styles/copyformatting.css HTTP/1.1" 200 1513
+INFO 2023-09-07 10:33:23,231 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css HTTP/1.1" 200 1306
+INFO 2023-09-07 10:33:23,266 basehttp 154 "GET /static/ckeditor/ckeditor/skins/moono-lisa/icons.png?t=95e5d83 HTTP/1.1" 200 12421
+INFO 2023-09-07 10:33:23,278 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/copyformatting/styles/copyformatting.css HTTP/1.1" 200 1513
+INFO 2023-09-07 10:33:23,281 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/tableselection/styles/tableselection.css HTTP/1.1" 200 1082
+INFO 2023-09-07 10:33:23,289 basehttp 154 "GET /static/ckeditor/ckeditor/contents.css?t=I3I8 HTTP/1.1" 200 2954
+INFO 2023-09-07 10:34:41,760 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-09-07 10:34:43,512 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 10:35:09,696 autoreload 203 D:\python\pythonProject\blog\users\urls.py changed, reloading.
+INFO 2023-09-07 10:35:11,401 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 10:35:41,192 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 10:35:41,755 basehttp 154 "GET / HTTP/1.1" 200 11902
+WARNING 2023-09-07 10:35:45,660 basehttp 154 "GET /static/write_blog.html HTTP/1.1" 404 1669
+INFO 2023-09-07 10:36:18,287 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 10:36:18,823 basehttp 154 "GET / HTTP/1.1" 200 11902
+WARNING 2023-09-07 10:36:21,144 log 222 Not Found: /write_blog.html
+WARNING 2023-09-07 10:36:21,145 basehttp 154 "GET /write_blog.html HTTP/1.1" 404 3653
+INFO 2023-09-07 10:37:00,162 basehttp 154 "GET /writeblog HTTP/1.1" 301 0
+INFO 2023-09-07 10:37:00,201 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5684
+WARNING 2023-09-07 10:37:00,348 log 222 Not Found: /writeblog/ckeditor/ckeditor/config.js
+WARNING 2023-09-07 10:37:00,348 basehttp 154 "GET /writeblog/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 404 3726
+WARNING 2023-09-07 10:37:00,371 log 222 Not Found: /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css
+WARNING 2023-09-07 10:37:00,372 basehttp 154 "GET /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 3780
+WARNING 2023-09-07 10:37:00,376 log 222 Not Found: /writeblog/ckeditor/ckeditor/lang/zh-cn.js
+WARNING 2023-09-07 10:37:00,376 basehttp 154 "GET /writeblog/ckeditor/ckeditor/lang/zh-cn.js?t=I3I8 HTTP/1.1" 404 3738
+INFO 2023-09-07 10:42:45,516 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 10:42:45,920 basehttp 154 "GET / HTTP/1.1" 200 11898
+ERROR 2023-09-07 10:43:16,803 log 222 Internal Server Error: /writeblog/
+Traceback (most recent call last):
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\urls\base.py", line 75, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'user'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\contrib\auth\mixins.py", line 52, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\python\pythonProject\blog\users\views.py", line 342, in get
+    return render(request,'write_blog.html')
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\urls\base.py", line 86, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'user' is not a registered namespace
+ERROR 2023-09-07 10:43:16,806 basehttp 154 "GET /writeblog/ HTTP/1.1" 500 143144
+ERROR 2023-09-07 10:43:25,031 log 222 Internal Server Error: /writeblog/
+Traceback (most recent call last):
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\urls\base.py", line 75, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'user'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\contrib\auth\mixins.py", line 52, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\python\pythonProject\blog\users\views.py", line 342, in get
+    return render(request,'write_blog.html')
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\urls\base.py", line 86, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'user' is not a registered namespace
+ERROR 2023-09-07 10:43:25,033 basehttp 154 "GET /writeblog/ HTTP/1.1" 500 143144
+INFO 2023-09-07 10:44:02,762 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 10:44:03,170 basehttp 154 "GET / HTTP/1.1" 200 11898
+INFO 2023-09-07 10:44:05,882 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5690
+INFO 2023-09-07 10:45:33,473 basehttp 154 "GET /static/ckeditor/ckeditor/skins/moono-lisa/images/close.png HTTP/1.1" 200 615
+INFO 2023-09-07 10:45:41,366 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/copyformatting/cursors/cursor-disabled.svg HTTP/1.1" 200 4012
+INFO 2023-09-07 10:45:41,366 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/copyformatting/cursors/cursor.svg HTTP/1.1" 200 2759
+INFO 2023-09-07 10:45:45,877 basehttp 154 "GET /static/ckeditor/ckeditor/skins/moono-lisa/dialog.css?t=I3I8 HTTP/1.1" 200 13570
+INFO 2023-09-07 10:45:45,889 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/forms/dialogs/form.js?t=I3I8 HTTP/1.1" 200 2111
+INFO 2023-09-07 10:53:34,282 autoreload 203 D:\python\pythonProject\blog\blog\settings.py changed, reloading.
+INFO 2023-09-07 10:53:35,204 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 10:53:45,879 autoreload 203 D:\python\pythonProject\blog\blog\settings.py changed, reloading.
+INFO 2023-09-07 10:53:46,705 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 11:21:53,642 basehttp 154 "GET /admin HTTP/1.1" 301 0
+INFO 2023-09-07 11:21:53,701 basehttp 154 "GET /admin/ HTTP/1.1" 302 0
+INFO 2023-09-07 11:21:53,905 basehttp 154 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1975
+INFO 2023-09-07 11:21:53,992 basehttp 154 "GET /static/admin/css/base.css HTTP/1.1" 200 16378
+INFO 2023-09-07 11:21:53,992 basehttp 154 "GET /static/admin/css/login.css HTTP/1.1" 200 1233
+INFO 2023-09-07 11:21:53,993 basehttp 154 "GET /static/admin/css/responsive.css HTTP/1.1" 200 17944
+INFO 2023-09-07 11:21:54,065 basehttp 154 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2023-09-07 11:21:54,111 basehttp 154 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2023-09-07 11:21:54,112 basehttp 154 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2023-09-07 11:21:54,112 basehttp 154 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO 2023-09-07 11:22:14,296 basehttp 154 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 2140
+INFO 2023-09-07 11:23:19,672 autoreload 203 D:\python\pythonProject\blog\blog\settings.py changed, reloading.
+INFO 2023-09-07 11:23:20,872 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 11:23:52,709 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 11:23:53,559 basehttp 154 "GET / HTTP/1.1" 200 11898
+INFO 2023-09-07 11:23:59,130 basehttp 154 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 2098
+INFO 2023-09-07 11:25:06,658 autoreload 203 D:\python\pythonProject\blog\users\models.py changed, reloading.
+INFO 2023-09-07 11:25:08,281 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 11:28:18,307 basehttp 154 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2023-09-07 11:28:18,517 basehttp 154 "GET /admin/ HTTP/1.1" 200 2587
+INFO 2023-09-07 11:28:18,581 basehttp 154 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+INFO 2023-09-07 11:28:18,607 basehttp 154 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2023-09-07 11:28:18,608 basehttp 154 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2023-09-07 11:31:31,169 autoreload 203 D:\python\pythonProject\blog\home\admin.py changed, reloading.
+INFO 2023-09-07 11:31:32,815 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 11:31:38,484 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 11:31:39,123 basehttp 154 "GET / HTTP/1.1" 200 11898
+INFO 2023-09-07 11:31:41,356 basehttp 154 "GET /admin/ HTTP/1.1" 200 3296
+INFO 2023-09-07 11:31:55,060 basehttp 154 "GET /admin/home/articlecategory/ HTTP/1.1" 200 3220
+INFO 2023-09-07 11:31:55,132 basehttp 154 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6170
+INFO 2023-09-07 11:31:55,142 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-09-07 11:31:55,144 basehttp 154 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+INFO 2023-09-07 11:31:55,154 basehttp 154 "GET /static/admin/js/core.js HTTP/1.1" 200 7135
+INFO 2023-09-07 11:31:55,156 basehttp 154 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6918
+INFO 2023-09-07 11:31:55,160 basehttp 154 "GET /static/admin/js/actions.js HTTP/1.1" 200 6538
+INFO 2023-09-07 11:31:55,170 basehttp 154 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1530
+INFO 2023-09-07 11:31:55,170 basehttp 154 "GET /static/admin/js/urlify.js HTTP/1.1" 200 8972
+INFO 2023-09-07 11:31:55,177 basehttp 154 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 271751
+INFO 2023-09-07 11:31:55,189 basehttp 154 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+INFO 2023-09-07 11:31:55,213 basehttp 154 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2023-09-07 11:32:03,973 basehttp 154 "GET /admin/home/articlecategory/add/ HTTP/1.1" 200 5038
+INFO 2023-09-07 11:32:04,054 basehttp 154 "GET /static/admin/css/forms.css HTTP/1.1" 200 8518
+INFO 2023-09-07 11:32:04,063 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-09-07 11:32:04,067 basehttp 154 "GET /static/admin/js/calendar.js HTTP/1.1" 200 7777
+INFO 2023-09-07 11:32:04,068 basehttp 154 "GET /static/admin/js/change_form.js HTTP/1.1" 200 712
+INFO 2023-09-07 11:32:04,068 basehttp 154 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 495
+INFO 2023-09-07 11:32:04,070 basehttp 154 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 20274
+INFO 2023-09-07 11:32:04,075 basehttp 154 "GET /static/admin/css/widgets.css HTTP/1.1" 200 10340
+INFO 2023-09-07 11:32:04,162 basehttp 154 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2023-09-07 11:32:04,163 basehttp 154 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2023-09-07 11:32:31,551 basehttp 154 "POST /admin/home/articlecategory/add/ HTTP/1.1" 302 0
+INFO 2023-09-07 11:32:31,632 basehttp 154 "GET /admin/home/articlecategory/add/ HTTP/1.1" 200 5273
+INFO 2023-09-07 11:32:31,688 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-09-07 11:32:31,721 basehttp 154 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2023-09-07 11:32:36,115 basehttp 154 "POST /admin/home/articlecategory/add/ HTTP/1.1" 302 0
+INFO 2023-09-07 11:32:36,176 basehttp 154 "GET /admin/home/articlecategory/add/ HTTP/1.1" 200 5271
+INFO 2023-09-07 11:32:36,227 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-09-07 11:32:45,691 basehttp 154 "POST /admin/home/articlecategory/add/ HTTP/1.1" 302 0
+INFO 2023-09-07 11:32:45,756 basehttp 154 "GET /admin/home/articlecategory/add/ HTTP/1.1" 200 5271
+INFO 2023-09-07 11:32:45,807 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-09-07 11:32:51,548 basehttp 154 "POST /admin/home/articlecategory/add/ HTTP/1.1" 302 0
+INFO 2023-09-07 11:32:51,609 basehttp 154 "GET /admin/home/articlecategory/add/ HTTP/1.1" 200 5273
+INFO 2023-09-07 11:32:51,654 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-09-07 11:32:55,874 basehttp 154 "POST /admin/home/articlecategory/add/ HTTP/1.1" 302 0
+INFO 2023-09-07 11:32:55,936 basehttp 154 "GET /admin/home/articlecategory/add/ HTTP/1.1" 200 5270
+INFO 2023-09-07 11:32:55,987 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-09-07 11:33:00,538 basehttp 154 "POST /admin/home/articlecategory/add/ HTTP/1.1" 302 0
+INFO 2023-09-07 11:33:00,603 basehttp 154 "GET /admin/home/articlecategory/add/ HTTP/1.1" 200 5273
+INFO 2023-09-07 11:33:00,657 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-09-07 11:33:04,419 basehttp 154 "POST /admin/home/articlecategory/add/ HTTP/1.1" 302 0
+INFO 2023-09-07 11:33:04,491 basehttp 154 "GET /admin/home/articlecategory/add/ HTTP/1.1" 200 5269
+INFO 2023-09-07 11:33:04,538 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-09-07 11:33:12,320 basehttp 154 "POST /admin/home/articlecategory/add/ HTTP/1.1" 302 0
+INFO 2023-09-07 11:33:12,417 basehttp 154 "GET /admin/home/articlecategory/8/change/ HTTP/1.1" 200 5440
+INFO 2023-09-07 11:33:12,467 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-09-07 11:33:17,576 basehttp 154 "GET /admin/home/articlecategory/8/history/ HTTP/1.1" 200 2283
+INFO 2023-09-07 11:33:21,196 basehttp 154 "GET /admin/home/articlecategory/ HTTP/1.1" 200 5977
+INFO 2023-09-07 11:33:21,247 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-09-07 11:33:31,861 basehttp 154 "POST /admin/home/articlecategory/ HTTP/1.1" 200 3356
+INFO 2023-09-07 11:33:31,910 basehttp 154 "GET /static/admin/js/cancel.js HTTP/1.1" 200 410
+INFO 2023-09-07 11:33:34,465 basehttp 154 "GET /admin/home/articlecategory/ HTTP/1.1" 200 5977
+INFO 2023-09-07 11:33:51,113 basehttp 154 "GET / HTTP/1.1" 200 11898
+INFO 2023-09-07 11:33:53,696 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5690
+INFO 2023-09-07 11:34:12,216 basehttp 154 "POST /admin/home/articlecategory/ HTTP/1.1" 200 3356
+INFO 2023-09-07 11:34:13,241 basehttp 154 "POST /admin/home/articlecategory/ HTTP/1.1" 302 0
+INFO 2023-09-07 11:34:13,338 basehttp 154 "GET /admin/home/articlecategory/ HTTP/1.1" 200 5877
+INFO 2023-09-07 11:34:13,395 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-09-07 11:34:18,150 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5690
+INFO 2023-09-07 13:36:53,970 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5690
+INFO 2023-09-07 13:37:02,447 basehttp 154 "GET /admin/home/ HTTP/1.1" 200 2458
+INFO 2023-09-07 13:37:03,815 basehttp 154 "GET /admin/ HTTP/1.1" 200 5932
+INFO 2023-09-07 13:37:03,893 basehttp 154 "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+INFO 2023-09-07 13:39:15,509 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-09-07 13:39:17,287 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 13:40:29,940 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 13:40:30,550 basehttp 154 "GET / HTTP/1.1" 200 11898
+INFO 2023-09-07 13:40:35,609 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 6017
+INFO 2023-09-07 13:42:36,862 basehttp 154 "GET / HTTP/1.1" 200 11898
+INFO 2023-09-07 13:42:50,496 basehttp 154 "GET / HTTP/1.1" 200 11898
+INFO 2023-09-07 13:42:59,286 basehttp 154 "GET /static/detail.html HTTP/1.1" 200 8868
+INFO 2023-09-07 13:43:14,007 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 6017
+INFO 2023-09-07 13:43:33,323 autoreload 203 D:\python\pythonProject\blog\home\models.py changed, reloading.
+INFO 2023-09-07 13:43:35,029 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 13:46:18,233 autoreload 203 D:\python\pythonProject\blog\home\models.py changed, reloading.
+INFO 2023-09-07 13:46:19,803 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 13:47:04,554 autoreload 203 D:\python\pythonProject\blog\home\models.py changed, reloading.
+INFO 2023-09-07 13:47:06,175 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 13:47:42,814 autoreload 203 D:\python\pythonProject\blog\home\models.py changed, reloading.
+INFO 2023-09-07 13:47:44,400 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 13:53:25,289 basehttp 154 "GET /admin/ HTTP/1.1" 200 5932
+INFO 2023-09-07 13:53:27,011 basehttp 154 "GET /admin/ HTTP/1.1" 200 5932
+INFO 2023-09-07 13:53:27,806 basehttp 154 "GET /admin/ HTTP/1.1" 200 5932
+INFO 2023-09-07 13:53:28,971 basehttp 154 "GET /admin/home/ HTTP/1.1" 200 2458
+INFO 2023-09-07 13:53:30,548 basehttp 154 "GET /admin/home/articlecategory/ HTTP/1.1" 200 5751
+INFO 2023-09-07 13:53:30,607 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-09-07 13:53:32,078 basehttp 154 "GET /admin/home/ HTTP/1.1" 200 2458
+INFO 2023-09-07 13:53:33,117 basehttp 154 "GET /admin/ HTTP/1.1" 200 5932
+INFO 2023-09-07 13:55:53,277 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/link/dialogs/link.js?t=I3I8 HTTP/1.1" 200 12386
+INFO 2023-09-07 13:59:21,618 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-09-07 13:59:23,230 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 14:01:38,412 autoreload 203 D:\python\pythonProject\blog\users\views.py changed, reloading.
+INFO 2023-09-07 14:01:40,079 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 14:02:36,983 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 14:02:37,602 basehttp 154 "GET / HTTP/1.1" 200 11898
+WARNING 2023-09-07 14:02:57,402 log 222 Forbidden (CSRF token missing or incorrect.): /writeblog/
+WARNING 2023-09-07 14:02:57,403 basehttp 154 "POST /writeblog/ HTTP/1.1" 403 2508
+WARNING 2023-09-07 14:03:51,210 log 222 Forbidden (CSRF token missing or incorrect.): /writeblog/
+WARNING 2023-09-07 14:03:51,211 basehttp 154 "POST /writeblog/ HTTP/1.1" 403 2508
+INFO 2023-09-07 14:03:54,759 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 6151
+INFO 2023-09-07 14:05:43,731 basehttp 154 "POST /writeblog/ HTTP/1.1" 302 0
+INFO 2023-09-07 14:05:43,745 basehttp 154 "GET / HTTP/1.1" 200 11898
