@@ -1213,3 +1213,248 @@ WARNING 2023-09-07 14:03:51,211 basehttp 154 "POST /writeblog/ HTTP/1.1" 403 250
 INFO 2023-09-07 14:03:54,759 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 6151
 INFO 2023-09-07 14:05:43,731 basehttp 154 "POST /writeblog/ HTTP/1.1" 302 0
 INFO 2023-09-07 14:05:43,745 basehttp 154 "GET / HTTP/1.1" 200 11898
+INFO 2023-09-07 14:28:22,215 autoreload 203 D:\python\pythonProject\blog\home\views.py changed, reloading.
+INFO 2023-09-07 14:28:23,816 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 14:36:02,679 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 14:36:03,317 basehttp 154 "GET / HTTP/1.1" 200 13059
+INFO 2023-09-07 14:36:07,300 basehttp 154 "GET / HTTP/1.1" 200 13059
+INFO 2023-09-07 14:36:41,769 basehttp 154 "GET /?cat_id=4 HTTP/1.1" 200 13059
+INFO 2023-09-07 14:36:42,909 basehttp 154 "GET /?cat_id=6 HTTP/1.1" 200 13059
+INFO 2023-09-07 14:36:43,611 basehttp 154 "GET /?cat_id=7 HTTP/1.1" 200 13059
+INFO 2023-09-07 14:36:44,563 basehttp 154 "GET /?cat_id=3 HTTP/1.1" 200 13059
+INFO 2023-09-07 14:36:45,370 basehttp 154 "GET /?cat_id=2 HTTP/1.1" 200 13059
+INFO 2023-09-07 14:36:46,010 basehttp 154 "GET /?cat_id=1 HTTP/1.1" 200 13059
+INFO 2023-09-07 14:36:46,840 basehttp 154 "GET /?cat_id=3 HTTP/1.1" 200 13059
+INFO 2023-09-07 14:36:47,729 basehttp 154 "GET /?cat_id=4 HTTP/1.1" 200 13059
+INFO 2023-09-07 14:36:48,788 basehttp 154 "GET /?cat_id=5 HTTP/1.1" 200 13059
+INFO 2023-09-07 14:36:50,553 basehttp 154 "GET /?cat_id=4 HTTP/1.1" 200 13059
+INFO 2023-09-07 14:36:51,621 basehttp 154 "GET /?cat_id=3 HTTP/1.1" 200 13059
+INFO 2023-09-07 14:37:35,759 basehttp 154 "GET /?cat_id=5 HTTP/1.1" 200 13059
+INFO 2023-09-07 14:37:38,487 basehttp 154 "GET /?cat_id=4 HTTP/1.1" 200 13059
+INFO 2023-09-07 14:37:49,087 basehttp 154 "GET /?cat_id=3 HTTP/1.1" 200 13059
+INFO 2023-09-07 14:37:54,511 basehttp 154 "GET / HTTP/1.1" 200 13059
+INFO 2023-09-07 14:37:56,329 basehttp 154 "GET / HTTP/1.1" 200 13059
+INFO 2023-09-07 14:37:58,072 basehttp 154 "GET / HTTP/1.1" 200 13059
+INFO 2023-09-07 14:38:00,312 basehttp 154 "GET / HTTP/1.1" 200 13059
+INFO 2023-09-07 14:38:02,093 basehttp 154 "GET / HTTP/1.1" 200 13059
+INFO 2023-09-07 14:38:04,176 basehttp 154 "GET / HTTP/1.1" 200 13059
+INFO 2023-09-07 14:41:06,057 basehttp 154 "GET / HTTP/1.1" 200 13059
+INFO 2023-09-07 14:41:07,352 basehttp 154 "GET /?cat_id=3 HTTP/1.1" 200 13059
+INFO 2023-09-07 14:41:08,272 basehttp 154 "GET /?cat_id=4 HTTP/1.1" 200 13059
+INFO 2023-09-07 14:41:09,409 basehttp 154 "GET /?cat_id=5 HTTP/1.1" 200 13059
+INFO 2023-09-07 14:41:10,416 basehttp 154 "GET /?cat_id=6 HTTP/1.1" 200 13059
+INFO 2023-09-07 14:41:11,224 basehttp 154 "GET /?cat_id=3 HTTP/1.1" 200 13059
+INFO 2023-09-07 14:41:11,740 basehttp 154 "GET /?cat_id=2 HTTP/1.1" 200 13059
+INFO 2023-09-07 14:41:40,207 autoreload 203 D:\python\pythonProject\blog\home\views.py changed, reloading.
+INFO 2023-09-07 14:41:41,843 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 14:42:01,168 autoreload 203 D:\python\pythonProject\blog\home\views.py changed, reloading.
+INFO 2023-09-07 14:42:02,776 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 14:43:57,962 autoreload 203 D:\python\pythonProject\blog\home\views.py changed, reloading.
+INFO 2023-09-07 14:43:59,529 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 14:44:17,400 autoreload 203 D:\python\pythonProject\blog\home\views.py changed, reloading.
+INFO 2023-09-07 14:44:18,886 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 14:44:47,451 autoreload 203 D:\python\pythonProject\blog\home\views.py changed, reloading.
+INFO 2023-09-07 14:44:49,052 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 14:46:04,486 autoreload 203 D:\python\pythonProject\blog\home\views.py changed, reloading.
+INFO 2023-09-07 14:46:06,097 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 14:46:28,053 autoreload 203 D:\python\pythonProject\blog\home\views.py changed, reloading.
+INFO 2023-09-07 14:46:29,652 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 14:46:50,348 autoreload 203 D:\python\pythonProject\blog\home\views.py changed, reloading.
+INFO 2023-09-07 14:46:51,935 autoreload 578 Watching for file changes with StatReloader
+ERROR 2023-09-07 14:47:00,268 log 222 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\python\pythonProject\blog\home\views.py", line 35, in get
+    articles = Article.objects.filter(ategory=category)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\query.py", line 892, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\query.py", line 910, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\sql\query.py", line 1290, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\sql\query.py", line 1315, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\sql\query.py", line 1190, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\sql\query.py", line 1049, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\sql\query.py", line 1419, in names_to_path
+    raise FieldError("Cannot resolve keyword '%s' into field. "
+django.core.exceptions.FieldError: Cannot resolve keyword 'ategory' into field. Choices are: author, author_id, avatar, category, category_id, comments_count, content, created, id, sumary, tags, title, total_views, updated
+ERROR 2023-09-07 14:47:00,271 basehttp 154 "GET /?cat_id=2 HTTP/1.1" 500 124373
+INFO 2023-09-07 14:47:22,435 autoreload 203 D:\python\pythonProject\blog\home\views.py changed, reloading.
+INFO 2023-09-07 14:47:24,101 autoreload 578 Watching for file changes with StatReloader
+ERROR 2023-09-07 14:52:01,742 log 222 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\python\pythonProject\blog\home\views.py", line 31, in get
+    articles = Article.objects.filter(ategory=category)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\query.py", line 892, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\query.py", line 910, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\sql\query.py", line 1290, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\sql\query.py", line 1315, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\sql\query.py", line 1190, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\sql\query.py", line 1049, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\sql\query.py", line 1419, in names_to_path
+    raise FieldError("Cannot resolve keyword '%s' into field. "
+django.core.exceptions.FieldError: Cannot resolve keyword 'ategory' into field. Choices are: author, author_id, avatar, category, category_id, comments_count, content, created, id, sumary, tags, title, total_views, updated
+ERROR 2023-09-07 14:52:01,748 basehttp 154 "GET /?cat_id=3 HTTP/1.1" 500 124373
+INFO 2023-09-07 14:53:08,800 autoreload 578 Watching for file changes with StatReloader
+ERROR 2023-09-07 14:53:09,613 log 222 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\python\pythonProject\blog\home\views.py", line 31, in get
+    articles = Article.objects.filter(ategory=category)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\query.py", line 892, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\query.py", line 910, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\sql\query.py", line 1290, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\sql\query.py", line 1315, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\sql\query.py", line 1190, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\sql\query.py", line 1049, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\sql\query.py", line 1419, in names_to_path
+    raise FieldError("Cannot resolve keyword '%s' into field. "
+django.core.exceptions.FieldError: Cannot resolve keyword 'ategory' into field. Choices are: author, author_id, avatar, category, category_id, comments_count, content, created, id, sumary, tags, title, total_views, updated
+ERROR 2023-09-07 14:53:09,617 basehttp 154 "GET / HTTP/1.1" 500 123722
+ERROR 2023-09-07 14:55:16,719 log 222 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\python\pythonProject\blog\home\views.py", line 31, in get
+    articles = Article.objects.filter(ategory=category)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\query.py", line 892, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\query.py", line 910, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\sql\query.py", line 1290, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\sql\query.py", line 1315, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\sql\query.py", line 1190, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\sql\query.py", line 1049, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\sql\query.py", line 1419, in names_to_path
+    raise FieldError("Cannot resolve keyword '%s' into field. "
+django.core.exceptions.FieldError: Cannot resolve keyword 'ategory' into field. Choices are: author, author_id, avatar, category, category_id, comments_count, content, created, id, sumary, tags, title, total_views, updated
+ERROR 2023-09-07 14:55:16,722 basehttp 154 "GET / HTTP/1.1" 500 123857
+ERROR 2023-09-07 14:55:30,523 log 222 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\python\pythonProject\blog\home\views.py", line 31, in get
+    articles = Article.objects.filter(ategory=category)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\query.py", line 892, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\query.py", line 910, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\sql\query.py", line 1290, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\sql\query.py", line 1315, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\sql\query.py", line 1190, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg)
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\sql\query.py", line 1049, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "D:\python\envs1\venvdemo\lib\site-packages\django\db\models\sql\query.py", line 1419, in names_to_path
+    raise FieldError("Cannot resolve keyword '%s' into field. "
+django.core.exceptions.FieldError: Cannot resolve keyword 'ategory' into field. Choices are: author, author_id, avatar, category, category_id, comments_count, content, created, id, sumary, tags, title, total_views, updated
+ERROR 2023-09-07 14:55:30,527 basehttp 154 "GET / HTTP/1.1" 500 123857
+INFO 2023-09-07 14:56:09,020 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 14:56:20,120 basehttp 154 "GET / HTTP/1.1" 200 8301
+INFO 2023-09-07 14:56:20,272 basehttp 154 "GET /media/article/20230907/1.png HTTP/1.1" 200 1242695
+INFO 2023-09-07 14:56:52,675 basehttp 154 "GET / HTTP/1.1" 200 6774
+INFO 2023-09-07 14:57:46,664 basehttp 154 "GET / HTTP/1.1" 200 6774
+INFO 2023-09-07 14:57:48,612 basehttp 154 "GET / HTTP/1.1" 200 6774
+INFO 2023-09-07 14:57:49,287 basehttp 154 "GET / HTTP/1.1" 200 6774
+INFO 2023-09-07 14:57:49,666 basehttp 154 "GET / HTTP/1.1" 200 6774
+INFO 2023-09-07 14:57:49,826 basehttp 154 "GET / HTTP/1.1" 200 6774
+INFO 2023-09-07 14:57:49,985 basehttp 154 "GET / HTTP/1.1" 200 6774
+INFO 2023-09-07 14:57:50,312 basehttp 154 "GET / HTTP/1.1" 200 6774
+INFO 2023-09-07 14:57:52,597 basehttp 154 "GET / HTTP/1.1" 200 6774
+INFO 2023-09-07 14:58:07,619 basehttp 154 "GET / HTTP/1.1" 200 8199
+INFO 2023-09-07 14:58:12,711 basehttp 154 "GET / HTTP/1.1" 200 8199
+INFO 2023-09-07 14:58:13,342 basehttp 154 "GET / HTTP/1.1" 200 8199
+INFO 2023-09-07 14:58:13,685 basehttp 154 "GET / HTTP/1.1" 200 8199
+INFO 2023-09-07 14:58:20,854 basehttp 154 "GET / HTTP/1.1" 200 8199
+INFO 2023-09-07 14:58:21,407 basehttp 154 "GET / HTTP/1.1" 200 8199
+INFO 2023-09-07 14:58:21,562 basehttp 154 "GET / HTTP/1.1" 200 8199
+INFO 2023-09-07 14:58:25,941 basehttp 154 "GET / HTTP/1.1" 200 8199
+INFO 2023-09-07 14:58:35,697 basehttp 154 "GET / HTTP/1.1" 200 8199
+INFO 2023-09-07 14:58:37,044 basehttp 154 "GET / HTTP/1.1" 200 8199
+INFO 2023-09-07 14:58:37,243 basehttp 154 "GET / HTTP/1.1" 200 8199
+INFO 2023-09-07 14:58:37,381 basehttp 154 "GET / HTTP/1.1" 200 8199
+INFO 2023-09-07 14:58:48,622 basehttp 154 "GET / HTTP/1.1" 200 8199
+INFO 2023-09-07 14:59:25,005 basehttp 154 "GET / HTTP/1.1" 200 8199
+INFO 2023-09-07 14:59:30,138 basehttp 154 "GET / HTTP/1.1" 200 11049
+INFO 2023-09-07 14:59:44,891 basehttp 154 "GET / HTTP/1.1" 200 11049
+INFO 2023-09-07 14:59:52,652 basehttp 154 "GET / HTTP/1.1" 200 16749
+INFO 2023-09-07 15:00:10,031 basehttp 154 "GET / HTTP/1.1" 200 16749
+INFO 2023-09-07 15:00:15,081 basehttp 154 "GET / HTTP/1.1" 200 19599
+INFO 2023-09-07 15:00:29,160 basehttp 154 "GET / HTTP/1.1" 200 19600
+INFO 2023-09-07 15:00:50,158 basehttp 154 "GET /?cat_id=1&page_size=10&page_num=2 HTTP/1.1" 200 19600
+INFO 2023-09-07 15:00:57,917 basehttp 154 "GET /?cat_id=1&page_size=10&page_num=4 HTTP/1.1" 200 19600
