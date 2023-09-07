@@ -192,8 +192,14 @@ class LoginView(View):
         # 4.实现状态保持
         login(request, user)
 
+        # 根据next参数来进行页面的跳转，用户可能点个人中心-》登录页面-》个人中心
         # 响应登录结果
-        response = redirect(reverse('home:index'))
+        next = request.GET.get('next')
+        if next:
+            response = redirect(next)
+        else:
+            response = redirect(reverse('home:index'))
+
 
         # 5.设置状态保持的周期
         if remember != 'on':
@@ -284,8 +290,47 @@ class ForgetPasswordView(View):
         return response
 
 
+from django.contrib.auth.mixins import LoginRequiredMixin
+# LoginRequiredMixin 如果用户未登录的话，会镜像默认跳转
+# 默认的跳转连接是：account/login/?next= xxx
+class UserCenterView(LoginRequiredMixin,View):
 
+    def get(self,request):
+        # 获取用户信息
+        user = request.user
 
+        # 组织模板渲染数据
+        context = {
+            'username': user.username,
+            'mobile': user.mobile,
+            'avatar': user.avatar.url if user.avatar else None,
+            'user_desc': user.user_desc
+        }
+        return render(request,'center.html',context=context)
+
+    def post(self, request):
+        # 1.接收数据
+        user = request.user
+        avatar = request.FILES.get('avatar')
+        username = request.POST.get('username', user.username)
+        user_desc = request.POST.get('desc', user.user_desc)
+
+        # 2.修改数据库数据
+        try:
+            user.username = username
+            user.user_desc = user_desc
+            if avatar:
+                user.avatar = avatar
+            user.save()
+        except Exception as e:
+            logger.error(e)
+            return HttpResponseBadRequest('更新失败，请稍后再试')
+
+        # 3.更新cookie信息
+        # 4.返回响应，刷新页面
+        response = redirect(reverse('users:center'))
+        response.set_cookie('username', user.username, max_age=30 * 24 * 3600)
+        return response
 
 
 
