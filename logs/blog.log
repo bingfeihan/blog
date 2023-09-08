@@ -1458,3 +1458,139 @@ INFO 2023-09-07 15:00:15,081 basehttp 154 "GET / HTTP/1.1" 200 19599
 INFO 2023-09-07 15:00:29,160 basehttp 154 "GET / HTTP/1.1" 200 19600
 INFO 2023-09-07 15:00:50,158 basehttp 154 "GET /?cat_id=1&page_size=10&page_num=2 HTTP/1.1" 200 19600
 INFO 2023-09-07 15:00:57,917 basehttp 154 "GET /?cat_id=1&page_size=10&page_num=4 HTTP/1.1" 200 19600
+INFO 2023-09-07 15:04:36,905 basehttp 154 "GET /?cat_id=1&page_size=10&page_num=4 HTTP/1.1" 200 19600
+INFO 2023-09-07 15:04:36,952 basehttp 154 "GET /media/article/20230907/1.png HTTP/1.1" 304 0
+INFO 2023-09-07 15:05:39,361 autoreload 203 D:\python\pythonProject\blog\home\urls.py changed, reloading.
+INFO 2023-09-07 15:05:40,945 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 15:05:52,286 autoreload 203 D:\python\pythonProject\blog\home\urls.py changed, reloading.
+INFO 2023-09-07 15:05:53,907 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 15:07:17,827 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 15:07:18,622 basehttp 154 "GET / HTTP/1.1" 200 19600
+INFO 2023-09-07 15:07:20,435 basehttp 154 "GET /detail HTTP/1.1" 301 0
+INFO 2023-09-07 15:07:20,444 basehttp 154 "GET /detail/ HTTP/1.1" 200 8752
+WARNING 2023-09-07 15:07:20,737 log 222 Not Found: /detail/ckeditor/ckeditor/config.js
+WARNING 2023-09-07 15:07:20,737 basehttp 154 "GET /detail/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 404 3886
+WARNING 2023-09-07 15:07:20,759 log 222 Not Found: /detail/ckeditor/ckeditor/skins/moono-lisa/editor.css
+WARNING 2023-09-07 15:07:20,762 log 222 Not Found: /detail/ckeditor/ckeditor/lang/en.js
+WARNING 2023-09-07 15:07:20,762 basehttp 154 "GET /detail/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 3940
+WARNING 2023-09-07 15:07:20,762 basehttp 154 "GET /detail/ckeditor/ckeditor/lang/en.js?t=I3I8 HTTP/1.1" 404 3889
+INFO 2023-09-07 17:31:52,131 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 17:31:52,943 basehttp 154 "GET / HTTP/1.1" 200 19600
+INFO 2023-09-07 17:31:53,110 basehttp 154 "GET /media/article/20230907/1.png HTTP/1.1" 304 0
+INFO 2023-09-07 17:31:57,511 basehttp 154 "GET /detail/ HTTP/1.1" 200 8691
+INFO 2023-09-07 17:33:10,794 autoreload 203 D:\python\pythonProject\blog\home\views.py changed, reloading.
+INFO 2023-09-07 17:33:12,449 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 17:33:34,378 autoreload 203 D:\python\pythonProject\blog\home\views.py changed, reloading.
+INFO 2023-09-07 17:33:35,974 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 17:35:24,485 autoreload 203 D:\python\pythonProject\blog\home\views.py changed, reloading.
+INFO 2023-09-07 17:35:26,138 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 17:39:39,291 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 17:39:40,193 basehttp 154 "GET / HTTP/1.1" 200 19600
+INFO 2023-09-07 17:41:35,427 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 17:41:36,236 basehttp 154 "GET / HTTP/1.1" 200 19764
+INFO 2023-09-07 17:42:29,090 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-07 17:42:30,058 basehttp 154 "GET / HTTP/1.1" 200 19764
+INFO 2023-09-07 17:42:46,343 basehttp 154 "GET /detail/?id=256 HTTP/1.1" 200 9717
+INFO 2023-09-08 09:43:51,869 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-08 09:43:55,133 basehttp 154 "GET / HTTP/1.1" 200 19764
+INFO 2023-09-08 09:43:55,301 basehttp 154 "GET /media/article/20230907/1.png HTTP/1.1" 304 0
+INFO 2023-09-08 09:43:55,310 basehttp 154 "GET /static/js/index.js HTTP/1.1" 304 0
+WARNING 2023-09-08 09:43:55,502 log 222 Not Found: /favicon.ico
+WARNING 2023-09-08 09:43:55,503 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 3810
+INFO 2023-09-08 09:44:09,518 basehttp 154 "GET /detail/?id=256 HTTP/1.1" 200 9758
+INFO 2023-09-08 09:44:16,213 basehttp 154 "GET /detail/?id=1111111 HTTP/1.1" 200 1140
+INFO 2023-09-08 09:44:16,270 basehttp 154 "GET /static/img/404.png HTTP/1.1" 200 107422
+INFO 2023-09-08 09:44:38,020 basehttp 154 "GET /detail/?id=1111111 HTTP/1.1" 200 1140
+INFO 2023-09-08 09:50:49,184 basehttp 154 "GET /?cat_id=1 HTTP/1.1" 200 19764
+INFO 2023-09-08 09:50:49,982 basehttp 154 "GET /?cat_id=2 HTTP/1.1" 200 5349
+INFO 2023-09-08 09:50:51,220 basehttp 154 "GET /?cat_id=3 HTTP/1.1" 200 5349
+INFO 2023-09-08 09:50:51,805 basehttp 154 "GET /?cat_id=4 HTTP/1.1" 200 5349
+INFO 2023-09-08 09:50:52,307 basehttp 154 "GET /?cat_id=5 HTTP/1.1" 200 5349
+INFO 2023-09-08 09:50:52,773 basehttp 154 "GET /?cat_id=7 HTTP/1.1" 200 5349
+INFO 2023-09-08 09:50:53,195 basehttp 154 "GET /?cat_id=6 HTTP/1.1" 200 5349
+INFO 2023-09-08 09:50:53,869 basehttp 154 "GET /?cat_id=1 HTTP/1.1" 200 19764
+INFO 2023-09-08 09:52:32,594 autoreload 203 D:\python\pythonProject\blog\home\views.py changed, reloading.
+INFO 2023-09-08 09:52:34,206 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-08 09:53:04,434 autoreload 203 D:\python\pythonProject\blog\home\views.py changed, reloading.
+INFO 2023-09-08 09:53:06,065 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-08 09:53:26,416 autoreload 203 D:\python\pythonProject\blog\home\views.py changed, reloading.
+INFO 2023-09-08 09:53:27,942 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-08 09:53:50,880 autoreload 203 D:\python\pythonProject\blog\home\views.py changed, reloading.
+INFO 2023-09-08 09:53:52,390 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-08 09:54:06,649 autoreload 203 D:\python\pythonProject\blog\home\views.py changed, reloading.
+INFO 2023-09-08 09:54:08,242 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-08 09:56:17,443 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-08 09:56:18,217 basehttp 154 "GET / HTTP/1.1" 200 19764
+INFO 2023-09-08 09:56:22,469 basehttp 154 "GET /detail/?id=256 HTTP/1.1" 200 10289
+INFO 2023-09-08 09:56:25,206 basehttp 154 "GET /detail/?id=1 HTTP/1.1" 200 10289
+INFO 2023-09-08 09:56:27,918 basehttp 154 "GET /detail/?id=513 HTTP/1.1" 200 10289
+INFO 2023-09-08 09:56:31,633 basehttp 154 "GET /detail/?id=256 HTTP/1.1" 200 10289
+INFO 2023-09-08 09:57:22,975 autoreload 203 D:\python\pythonProject\blog\home\views.py changed, reloading.
+INFO 2023-09-08 09:57:24,460 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-08 09:57:27,754 basehttp 154 "GET /detail/?id=256 HTTP/1.1" 200 10289
+INFO 2023-09-08 09:57:28,448 basehttp 154 "GET /detail/?id=256 HTTP/1.1" 200 10289
+INFO 2023-09-08 09:57:29,072 basehttp 154 "GET /detail/?id=256 HTTP/1.1" 200 10289
+INFO 2023-09-08 09:57:29,847 basehttp 154 "GET /detail/?id=256 HTTP/1.1" 200 10289
+INFO 2023-09-08 09:59:39,015 autoreload 203 D:\python\pythonProject\blog\home\models.py changed, reloading.
+INFO 2023-09-08 09:59:40,698 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-08 09:59:49,968 autoreload 203 D:\python\pythonProject\blog\home\models.py changed, reloading.
+INFO 2023-09-08 09:59:51,667 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-08 10:05:54,386 basehttp 154 "GET /login/ HTTP/1.1" 200 3219
+INFO 2023-09-08 10:05:57,463 basehttp 154 "GET /detail/?id=256 HTTP/1.1" 200 10289
+INFO 2023-09-08 10:07:49,234 autoreload 203 D:\python\pythonProject\blog\home\views.py changed, reloading.
+INFO 2023-09-08 10:07:50,959 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-08 10:07:56,570 autoreload 203 D:\python\pythonProject\blog\home\views.py changed, reloading.
+INFO 2023-09-08 10:07:58,280 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-08 10:10:18,071 autoreload 203 D:\python\pythonProject\blog\home\views.py changed, reloading.
+INFO 2023-09-08 10:10:19,593 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-08 10:11:35,291 autoreload 203 D:\python\pythonProject\blog\home\views.py changed, reloading.
+INFO 2023-09-08 10:11:36,914 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-08 10:14:22,167 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-08 10:14:22,953 basehttp 154 "GET / HTTP/1.1" 200 19764
+INFO 2023-09-08 10:14:24,443 basehttp 154 "GET /detail/?id=256 HTTP/1.1" 200 10495
+INFO 2023-09-08 10:14:32,899 basehttp 154 "POST /detail/?id=256 HTTP/1.1" 302 0
+INFO 2023-09-08 10:14:32,956 basehttp 154 "GET /detail/?id=256 HTTP/1.1" 200 10495
+INFO 2023-09-08 10:14:37,894 basehttp 154 "POST /detail/?id=256 HTTP/1.1" 302 0
+INFO 2023-09-08 10:14:37,932 basehttp 154 "GET /detail/?id=256 HTTP/1.1" 200 10496
+INFO 2023-09-08 10:14:51,996 basehttp 154 "GET /detail/?id=256 HTTP/1.1" 200 10496
+INFO 2023-09-08 10:14:54,687 basehttp 154 "POST /detail/?id=256 HTTP/1.1" 302 0
+INFO 2023-09-08 10:14:54,751 basehttp 154 "GET /detail/?id=256 HTTP/1.1" 200 10496
+INFO 2023-09-08 10:14:58,378 basehttp 154 "POST /detail/?id=256 HTTP/1.1" 302 0
+INFO 2023-09-08 10:14:58,416 basehttp 154 "GET /detail/?id=256 HTTP/1.1" 200 10496
+INFO 2023-09-08 10:15:01,796 basehttp 154 "POST /detail/?id=256 HTTP/1.1" 302 0
+INFO 2023-09-08 10:15:01,832 basehttp 154 "GET /detail/?id=256 HTTP/1.1" 200 10496
+INFO 2023-09-08 10:16:00,658 basehttp 154 "POST /detail/?id=256 HTTP/1.1" 302 0
+INFO 2023-09-08 10:16:00,709 basehttp 154 "GET /detail/?id=256 HTTP/1.1" 200 10496
+INFO 2023-09-08 10:16:20,829 basehttp 154 "GET /detail/?id=256 HTTP/1.1" 200 10496
+INFO 2023-09-08 10:16:27,589 basehttp 154 "POST /detail/?id=256 HTTP/1.1" 302 0
+INFO 2023-09-08 10:16:27,602 basehttp 154 "GET /login/ HTTP/1.1" 200 3219
+INFO 2023-09-08 10:16:38,082 basehttp 154 "POST /login/ HTTP/1.1" 302 0
+INFO 2023-09-08 10:16:38,145 basehttp 154 "GET / HTTP/1.1" 200 19765
+INFO 2023-09-08 10:16:39,361 basehttp 154 "GET /detail/?id=256 HTTP/1.1" 200 10496
+INFO 2023-09-08 10:16:50,216 basehttp 154 "POST /detail/?id=256 HTTP/1.1" 302 0
+INFO 2023-09-08 10:16:50,276 basehttp 154 "GET /detail/?id=256 HTTP/1.1" 200 10496
+INFO 2023-09-08 10:23:14,123 autoreload 203 D:\python\pythonProject\blog\home\views.py changed, reloading.
+INFO 2023-09-08 10:23:15,712 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-08 10:23:27,468 autoreload 203 D:\python\pythonProject\blog\home\views.py changed, reloading.
+INFO 2023-09-08 10:23:29,087 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-08 10:23:49,510 autoreload 203 D:\python\pythonProject\blog\home\views.py changed, reloading.
+INFO 2023-09-08 10:23:51,162 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-08 10:24:12,702 autoreload 203 D:\python\pythonProject\blog\home\views.py changed, reloading.
+INFO 2023-09-08 10:24:14,297 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-08 10:24:33,405 autoreload 203 D:\python\pythonProject\blog\home\views.py changed, reloading.
+INFO 2023-09-08 10:24:34,953 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-08 10:28:20,529 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-09-08 10:28:21,333 basehttp 154 "GET / HTTP/1.1" 200 19765
+INFO 2023-09-08 10:28:25,721 basehttp 154 "GET /detail/?id=256 HTTP/1.1" 200 11030
+INFO 2023-09-08 10:28:30,971 basehttp 154 "GET /detail/?id=256&page_size=5&page_num=2 HTTP/1.1" 200 9562
+INFO 2023-09-08 10:28:35,582 basehttp 154 "GET /detail/?id=256&page_size=5&page_num=1 HTTP/1.1" 200 11030
+INFO 2023-09-08 10:28:44,442 basehttp 154 "GET /detail/?id=256&page_size=5&page_num=1 HTTP/1.1" 200 11029
+INFO 2023-09-08 10:28:46,748 basehttp 154 "GET /detail/?id=256&page_size=5&page_num=2 HTTP/1.1" 200 9561
+INFO 2023-09-08 10:29:18,661 basehttp 154 "GET /detail/?id=256&page_size=5&page_num=2 HTTP/1.1" 200 10966
+INFO 2023-09-08 10:29:20,525 basehttp 154 "GET /detail/?id=256&page_size=5&page_num=3 HTTP/1.1" 200 10511
+INFO 2023-09-08 10:29:27,931 basehttp 154 "GET /detail/?id=256&page_size=5&page_num=3 HTTP/1.1" 200 10979
+INFO 2023-09-08 10:29:29,602 basehttp 154 "GET /detail/?id=256&page_size=5&page_num=4 HTTP/1.1" 200 11011
+INFO 2023-09-08 10:29:32,322 basehttp 154 "GET /detail/?id=256&page_size=5&page_num=6 HTTP/1.1" 200 10929
+INFO 2023-09-08 10:29:34,589 basehttp 154 "GET /detail/?id=256&page_size=5&page_num=5 HTTP/1.1" 200 11001
+INFO 2023-09-08 10:29:36,456 basehttp 154 "GET /detail/?id=256&page_size=5&page_num=1 HTTP/1.1" 200 11249
+INFO 2023-09-08 10:29:38,984 basehttp 154 "GET /detail/?id=256&page_size=5&page_num=3 HTTP/1.1" 200 10979
